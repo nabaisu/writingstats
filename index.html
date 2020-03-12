@@ -1,59 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
   <meta charset="utf-8">
   <title>Writing Stats</title>
-  <link rel="stylesheet" href="styles/main.css" />
+  <!-- <link rel="stylesheet" href="styles/main.css" />  -->
+  <link rel="stylesheet" href="styles/bootstrap.min.css" />
 
   <link rel="manifest" href="manifest.json">
 
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="application-name" content="Space Missions">
-<meta name="apple-mobile-web-app-title" content="Space Missions">
-<meta name="theme-color" content="#FF9800">
-<meta name="msapplication-navbutton-color" content="#FF9800">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="msapplication-starturl" content="/index.html">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="Space Missions">
+  <meta name="apple-mobile-web-app-title" content="Space Missions">
+  <meta name="theme-color" content="#FF9800">
+  <meta name="msapplication-navbutton-color" content="#FF9800">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="msapplication-starturl" content="/index.html">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" sizes="128x128" href="/images/touch/icon-128x128.png">
-<link rel="apple-touch-icon" sizes="128x128" href="/images/touch/icon-128x128.png">
-<link rel="icon" sizes="192x192" href="icon-192x192.png">
-<link rel="apple-touch-icon" sizes="192x192" href="/images/touch/icon-192x192.png">
-<link rel="icon" sizes="256x256" href="/images/touch/icon-256x256.png">
-<link rel="apple-touch-icon" sizes="256x256" href="/images/touch/icon-256x256.png">
-<link rel="icon" sizes="384x384" href="/images/touch/icon-384x384.png">
-<link rel="apple-touch-icon" sizes="384x384" href="/images/touch/icon-384x384.png">
-<link rel="icon" sizes="512x512" href="/images/touch/icon-512x512.png">
-<link rel="apple-touch-icon" sizes="512x512" href="/images/touch/icon-512x512.png">
+  <link rel="icon" sizes="128x128" href="/images/touch/icon-128x128.png">
+  <link rel="apple-touch-icon" sizes="128x128" href="/images/touch/icon-128x128.png">
+  <link rel="icon" sizes="192x192" href="icon-192x192.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="/images/touch/icon-192x192.png">
+  <link rel="icon" sizes="256x256" href="/images/touch/icon-256x256.png">
+  <link rel="apple-touch-icon" sizes="256x256" href="/images/touch/icon-256x256.png">
+  <link rel="icon" sizes="384x384" href="/images/touch/icon-384x384.png">
+  <link rel="apple-touch-icon" sizes="384x384" href="/images/touch/icon-384x384.png">
+  <link rel="icon" sizes="512x512" href="/images/touch/icon-512x512.png">
+  <link rel="apple-touch-icon" sizes="512x512" href="/images/touch/icon-512x512.png">
 </head>
 
 <body>
   <header>
-    <h1>Nabais Writing Stats</h1>
+
+    <nav class="navbar navbar-light bg-light nav-fill w-100">
+      <a class="navbar-brand" href="#">Nabais Writing</a>
+      <a class="navbar-brand" href="#" onclick="fetchData()">refresh</a>
+      <a class="navbar-brand" href="#" id="installBtn">install app</a>
+      </div>
+    </nav>
   </header>
+
   <main>
-    <section class="card">
-      <p> base </p>
-    </section>
+    <div class="d-flex flex-row">
+      <div class="col-md-6">
+        <div class="form-group">
+          <input type="date" id="startDate" name="startDate" onchange="renderChart()" class="form-control">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="form-group">
+          <input type="date" id="endDate" name="endDate" onchange="renderChart()" class="form-control">
+        </div>
+      </div>
+    </div>
+    <canvas id="myChart" width="1000" height="300"></canvas>
   </main>
-  <section id="installBanner" class="banner">
-    <button id="installBtn">Install app</button>
-</section>
   <footer>
-    <ul class="flex-list">
-      <li>date2</li>
-      <li>date 1</li>
-      <li>1000</li>
-    </ul>
+    <nav class="navbar navbar-light bg-light nav-fill w-100">
+      <a class="navbar-brand" href="#">date 1</a>
+      <a class="navbar-brand" href="#">date 2</a>
+      <a class="navbar-brand" href="#">average</a>
+      </div>
+    </nav>
   </footer>
 
-   <!-- TODO Register the service worker -->
-   <script>
+  <!-- TODO Register the service worker -->
+  <script>
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
+      window.addEventListener('load', function () {
         navigator.serviceWorker.register('service-worker.js')
           .then(reg => {
             console.log('Service worker registered! 😎', reg);
@@ -64,6 +81,8 @@
       });
     }
   </script>
+
+  <script src="js/Chart.min.js"></script>
 
   <script>
     let deferredPrompt;
@@ -96,8 +115,122 @@
       // Update UI notify the user they can add to home screen
       document.querySelector('#installBanner').style.display = 'flex';
     });
+
   </script>
-<!-- <script src="./app.js"></script> -->
+  <!-- <script src="./app.js"></script> -->
+  <script>
+
+    var vm = this;
+    vm.chartData = JSON.parse(localStorage.getItem('chartData')) || [];
+    // fetch data from the sheets and store it in the local storage
+    function startData() {
+      console.log('corri');
+      console.log(getToday());
+      // check if the data is already in the local storage
+      if (!localStorage.getItem('chartData')) {
+        // this means the chartData is not in the localStorage
+        fetchData();
+        // write the last fetched data for today
+        localStorage.setItem('lastChecked', getToday());
+      } else {
+        // Data in the local storage
+        // check if the last fetched data was today
+        if (localStorage.getItem('lastChecked') !== getToday()) {
+          fetchData();
+          // write the last fetched data for today
+          localStorage.setItem('lastChecked', getToday());
+        }
+        renderChart();
+      }
+    }
+
+    (function start() {
+      startData();
+    })();
+
+    // check if the data is already fetched
+    function fetchData(vm = this) {
+      vm.chartData = [];
+      fetch('https://api.sheety.co/d6804f9f-de8d-4d2f-91b8-878aa217eda3').then((response) => {
+        return response.json().then((json) => {
+          json.map((a) => {
+            return vm.chartData.push({ 'date': a.day, 'wordCount': a.wordCount, 'averageToDate': a.average })
+          });
+          localStorage.setItem('chartData', JSON.stringify(vm.chartData));
+          localStorage.setItem('lastChecked', getToday());
+          console.log('data successfully fetched =)');
+          renderChart();
+          console.log(json)
+        })
+      })
+    }
+
+    function getToday() {
+      return new Date().toJSON().slice(0, 10).replace(/-/g, '/');
+    }
+
+    function getOneMonthBefore() {
+      let x = new Date()
+      x.setDate(0);
+      return x.toJSON().slice(0, 10).replace(/-/g, '-'); 
+    }
+    
+
+    function renderChart() {
+
+      var options = {};
+      console.log(document.getElementById('startDate').value);
+      var startDate = document.getElementById('startDate').value || getOneMonthBefore();
+      console.log("startDate", startDate);
+      var endDate = document.getElementById('endDate').value || vm.chartData[vm.chartData.length - 1].date;
+      console.log("endDate", endDate);
+      var startingIndex = vm.chartData.map(function (e) {
+        return e.date;
+      }).indexOf(startDate);
+      console.log("startingIndex", startingIndex);
+      var endingIndex  = vm.chartData.map(function (e) {
+        return e.date;
+      }).indexOf(endDate);
+      console.log("endingIndex", endingIndex);
+      var dataX = vm.chartData.slice(startingIndex, endingIndex+1).map(a => a.date);
+      console.log(dataX);
+      var dataEachDay = vm.chartData.slice(startingIndex, endingIndex+1).map(a => a.wordCount);
+      console.log(dataEachDay);
+      var dataAverage = vm.chartData.slice(startingIndex, endingIndex+1).map(a => a.averageToDate);
+      console.log(dataAverage);
+      var ctx = document.getElementById('myChart');
+      if(vm.chart){ vm.chart.destroy(); }
+      vm.chart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: dataX,
+          datasets: [{
+            label: "wordCount",
+            type: "bar",
+            backgroundColor: "rgba(0,0,0,0.2)",
+            data: dataEachDay,
+          }, {
+            label: "average",
+            type: "line",
+            borderColor: "#8e5ea2",
+            data: dataAverage,
+            fill: false
+          }
+          ]
+        },
+        options: {
+          title: {
+            display: false,
+            text: 'writing stats'
+          },
+          legend: { display: true }
+        }
+      });
+    };
+    chart.update();
+
+  </script>
 
 </body>
+
 </html>

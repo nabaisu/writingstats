@@ -1,7 +1,7 @@
 {
-    "name": "Space Missions",
-    "short_name": "Space Missions",
-    "lang": "en-US",
+    "name": "Nabais Writing Stats",
+    "short_name": "Nabais Writing",
+    "lang": "pt-PT",
     "start_url": "/index.html",
     "display": "standalone",
     "theme_color": "#FF9800",

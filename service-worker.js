@@ -18,6 +18,8 @@ const precacheResources = [
   '/',
   'index.html',
   'styles/main.css',
+  'styles/bootstrap.min.css',
+  'js/Chart.min.js',
   'images/space1.jpg',
   'images/space2.jpg',
   'images/space3.jpg'
