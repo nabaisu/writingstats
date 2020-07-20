@@ -1,0 +1,6407 @@
+[
+  {
+    "day": "2017-12-07",
+    "wordCount": 4813,
+    "sum": 4813,
+    "numberOfDays": 1,
+    "average": 4813
+  },
+  {
+    "day": "2017-12-08",
+    "wordCount": 1730,
+    "sum": 6543,
+    "numberOfDays": 2,
+    "average": 3272
+  },
+  {
+    "day": "2017-12-09",
+    "wordCount": 2230,
+    "sum": 8773,
+    "numberOfDays": 3,
+    "average": 2924
+  },
+  {
+    "day": "2017-12-10",
+    "wordCount": 1803,
+    "sum": 10576,
+    "numberOfDays": 4,
+    "average": 2644
+  },
+  {
+    "day": "2017-12-11",
+    "wordCount": 0,
+    "sum": 10576,
+    "numberOfDays": 5,
+    "average": 2115
+  },
+  {
+    "day": "2017-12-12",
+    "wordCount": 2121,
+    "sum": 12697,
+    "numberOfDays": 6,
+    "average": 2116
+  },
+  {
+    "day": "2017-12-13",
+    "wordCount": 1060,
+    "sum": 13757,
+    "numberOfDays": 7,
+    "average": 1965
+  },
+  {
+    "day": "2017-12-14",
+    "wordCount": 2678,
+    "sum": 16435,
+    "numberOfDays": 8,
+    "average": 2054
+  },
+  {
+    "day": "2017-12-15",
+    "wordCount": 0,
+    "sum": 16435,
+    "numberOfDays": 9,
+    "average": 1826
+  },
+  {
+    "day": "2017-12-16",
+    "wordCount": 826,
+    "sum": 17261,
+    "numberOfDays": 10,
+    "average": 1726
+  },
+  {
+    "day": "2017-12-17",
+    "wordCount": 1192,
+    "sum": 18453,
+    "numberOfDays": 11,
+    "average": 1678
+  },
+  {
+    "day": "2017-12-18",
+    "wordCount": 2208,
+    "sum": 20661,
+    "numberOfDays": 12,
+    "average": 1722
+  },
+  {
+    "day": "2017-12-19",
+    "wordCount": 103,
+    "sum": 20764,
+    "numberOfDays": 13,
+    "average": 1597
+  },
+  {
+    "day": "2017-12-20",
+    "wordCount": 0,
+    "sum": 20764,
+    "numberOfDays": 14,
+    "average": 1483
+  },
+  {
+    "day": "2017-12-21",
+    "wordCount": 0,
+    "sum": 20764,
+    "numberOfDays": 15,
+    "average": 1384
+  },
+  {
+    "day": "2017-12-22",
+    "wordCount": 0,
+    "sum": 20764,
+    "numberOfDays": 16,
+    "average": 1298
+  },
+  {
+    "day": "2017-12-23",
+    "wordCount": 0,
+    "sum": 20764,
+    "numberOfDays": 17,
+    "average": 1221
+  },
+  {
+    "day": "2017-12-24",
+    "wordCount": 0,
+    "sum": 20764,
+    "numberOfDays": 18,
+    "average": 1154
+  },
+  {
+    "day": "2017-12-25",
+    "wordCount": 441,
+    "sum": 21205,
+    "numberOfDays": 19,
+    "average": 1116
+  },
+  {
+    "day": "2017-12-26",
+    "wordCount": 0,
+    "sum": 21205,
+    "numberOfDays": 20,
+    "average": 1060
+  },
+  {
+    "day": "2017-12-27",
+    "wordCount": 1053,
+    "sum": 22258,
+    "numberOfDays": 21,
+    "average": 1060
+  },
+  {
+    "day": "2017-12-28",
+    "wordCount": 0,
+    "sum": 22258,
+    "numberOfDays": 22,
+    "average": 1012
+  },
+  {
+    "day": "2017-12-29",
+    "wordCount": 2422,
+    "sum": 24680,
+    "numberOfDays": 23,
+    "average": 1073
+  },
+  {
+    "day": "2017-12-30",
+    "wordCount": 1039,
+    "sum": 25719,
+    "numberOfDays": 24,
+    "average": 1072
+  },
+  {
+    "day": "2017-12-31",
+    "wordCount": 361,
+    "sum": 26080,
+    "numberOfDays": 25,
+    "average": 1043
+  },
+  {
+    "day": "2018-01-01",
+    "wordCount": 55,
+    "sum": 26135,
+    "numberOfDays": 26,
+    "average": 1005
+  },
+  {
+    "day": "2018-01-02",
+    "wordCount": 3582,
+    "sum": 29717,
+    "numberOfDays": 27,
+    "average": 1101
+  },
+  {
+    "day": "2018-01-03",
+    "wordCount": 3354,
+    "sum": 33071,
+    "numberOfDays": 28,
+    "average": 1181
+  },
+  {
+    "day": "2018-01-04",
+    "wordCount": 2045,
+    "sum": 35116,
+    "numberOfDays": 29,
+    "average": 1211
+  },
+  {
+    "day": "2018-01-05",
+    "wordCount": 4114,
+    "sum": 39230,
+    "numberOfDays": 30,
+    "average": 1308
+  },
+  {
+    "day": "2018-01-06",
+    "wordCount": 1035,
+    "sum": 40265,
+    "numberOfDays": 31,
+    "average": 1299
+  },
+  {
+    "day": "2018-01-07",
+    "wordCount": 1511,
+    "sum": 41776,
+    "numberOfDays": 32,
+    "average": 1306
+  },
+  {
+    "day": "2018-01-08",
+    "wordCount": 1395,
+    "sum": 43171,
+    "numberOfDays": 33,
+    "average": 1308
+  },
+  {
+    "day": "2018-01-09",
+    "wordCount": 2410,
+    "sum": 45581,
+    "numberOfDays": 34,
+    "average": 1341
+  },
+  {
+    "day": "2018-01-10",
+    "wordCount": 1217,
+    "sum": 46798,
+    "numberOfDays": 35,
+    "average": 1337
+  },
+  {
+    "day": "2018-01-11",
+    "wordCount": 1460,
+    "sum": 48258,
+    "numberOfDays": 36,
+    "average": 1341
+  },
+  {
+    "day": "2018-01-12",
+    "wordCount": 640,
+    "sum": 48898,
+    "numberOfDays": 37,
+    "average": 1322
+  },
+  {
+    "day": "2018-01-13",
+    "wordCount": 1888,
+    "sum": 50786,
+    "numberOfDays": 38,
+    "average": 1336
+  },
+  {
+    "day": "2018-01-14",
+    "wordCount": 0,
+    "sum": 50786,
+    "numberOfDays": 39,
+    "average": 1302
+  },
+  {
+    "day": "2018-01-15",
+    "wordCount": 0,
+    "sum": 50786,
+    "numberOfDays": 40,
+    "average": 1270
+  },
+  {
+    "day": "2018-01-16",
+    "wordCount": 0,
+    "sum": 50786,
+    "numberOfDays": 41,
+    "average": 1239
+  },
+  {
+    "day": "2018-01-17",
+    "wordCount": 271,
+    "sum": 51057,
+    "numberOfDays": 42,
+    "average": 1216
+  },
+  {
+    "day": "2018-01-18",
+    "wordCount": 1405,
+    "sum": 52462,
+    "numberOfDays": 43,
+    "average": 1220
+  },
+  {
+    "day": "2018-01-19",
+    "wordCount": 0,
+    "sum": 52462,
+    "numberOfDays": 44,
+    "average": 1192
+  },
+  {
+    "day": "2018-01-20",
+    "wordCount": 0,
+    "sum": 52462,
+    "numberOfDays": 45,
+    "average": 1166
+  },
+  {
+    "day": "2018-01-21",
+    "wordCount": 0,
+    "sum": 52462,
+    "numberOfDays": 46,
+    "average": 1140
+  },
+  {
+    "day": "2018-01-22",
+    "wordCount": 1238,
+    "sum": 53700,
+    "numberOfDays": 47,
+    "average": 1143
+  },
+  {
+    "day": "2018-01-23",
+    "wordCount": 2102,
+    "sum": 55802,
+    "numberOfDays": 48,
+    "average": 1163
+  },
+  {
+    "day": "2018-01-24",
+    "wordCount": 1282,
+    "sum": 57084,
+    "numberOfDays": 49,
+    "average": 1165
+  },
+  {
+    "day": "2018-01-25",
+    "wordCount": 786,
+    "sum": 57870,
+    "numberOfDays": 50,
+    "average": 1157
+  },
+  {
+    "day": "2018-01-26",
+    "wordCount": 0,
+    "sum": 57870,
+    "numberOfDays": 51,
+    "average": 1135
+  },
+  {
+    "day": "2018-01-27",
+    "wordCount": 0,
+    "sum": 57870,
+    "numberOfDays": 52,
+    "average": 1113
+  },
+  {
+    "day": "2018-01-28",
+    "wordCount": 2451,
+    "sum": 60321,
+    "numberOfDays": 53,
+    "average": 1138
+  },
+  {
+    "day": "2018-01-29",
+    "wordCount": 1486,
+    "sum": 61807,
+    "numberOfDays": 54,
+    "average": 1145
+  },
+  {
+    "day": "2018-01-30",
+    "wordCount": 1185,
+    "sum": 62992,
+    "numberOfDays": 55,
+    "average": 1145
+  },
+  {
+    "day": "2018-01-31",
+    "wordCount": 1982,
+    "sum": 64974,
+    "numberOfDays": 56,
+    "average": 1160
+  },
+  {
+    "day": "2018-02-01",
+    "wordCount": 2331,
+    "sum": 67305,
+    "numberOfDays": 57,
+    "average": 1181
+  },
+  {
+    "day": "2018-02-02",
+    "wordCount": 0,
+    "sum": 67305,
+    "numberOfDays": 58,
+    "average": 1160
+  },
+  {
+    "day": "2018-02-03",
+    "wordCount": 243,
+    "sum": 67548,
+    "numberOfDays": 59,
+    "average": 1145
+  },
+  {
+    "day": "2018-02-04",
+    "wordCount": 1058,
+    "sum": 68606,
+    "numberOfDays": 60,
+    "average": 1143
+  },
+  {
+    "day": "2018-02-05",
+    "wordCount": 926,
+    "sum": 69532,
+    "numberOfDays": 61,
+    "average": 1140
+  },
+  {
+    "day": "2018-02-06",
+    "wordCount": 1108,
+    "sum": 70640,
+    "numberOfDays": 62,
+    "average": 1139
+  },
+  {
+    "day": "2018-02-07",
+    "wordCount": 1513,
+    "sum": 72153,
+    "numberOfDays": 63,
+    "average": 1145
+  },
+  {
+    "day": "2018-02-08",
+    "wordCount": 1383,
+    "sum": 73536,
+    "numberOfDays": 64,
+    "average": 1149
+  },
+  {
+    "day": "2018-02-09",
+    "wordCount": 0,
+    "sum": 73536,
+    "numberOfDays": 65,
+    "average": 1131
+  },
+  {
+    "day": "2018-02-10",
+    "wordCount": 1253,
+    "sum": 74789,
+    "numberOfDays": 66,
+    "average": 1133
+  },
+  {
+    "day": "2018-02-11",
+    "wordCount": 1032,
+    "sum": 75821,
+    "numberOfDays": 67,
+    "average": 1132
+  },
+  {
+    "day": "2018-02-12",
+    "wordCount": 4,
+    "sum": 75825,
+    "numberOfDays": 68,
+    "average": 1115
+  },
+  {
+    "day": "2018-02-13",
+    "wordCount": 1498,
+    "sum": 77323,
+    "numberOfDays": 69,
+    "average": 1121
+  },
+  {
+    "day": "2018-02-14",
+    "wordCount": 1393,
+    "sum": 78716,
+    "numberOfDays": 70,
+    "average": 1125
+  },
+  {
+    "day": "2018-02-15",
+    "wordCount": 1626,
+    "sum": 80342,
+    "numberOfDays": 71,
+    "average": 1132
+  },
+  {
+    "day": "2018-02-16",
+    "wordCount": 1188,
+    "sum": 81530,
+    "numberOfDays": 72,
+    "average": 1132
+  },
+  {
+    "day": "2018-02-17",
+    "wordCount": 558,
+    "sum": 82088,
+    "numberOfDays": 73,
+    "average": 1124
+  },
+  {
+    "day": "2018-02-18",
+    "wordCount": 888,
+    "sum": 82976,
+    "numberOfDays": 74,
+    "average": 1121
+  },
+  {
+    "day": "2018-02-19",
+    "wordCount": 1474,
+    "sum": 84450,
+    "numberOfDays": 75,
+    "average": 1126
+  },
+  {
+    "day": "2018-02-20",
+    "wordCount": 1720,
+    "sum": 86170,
+    "numberOfDays": 76,
+    "average": 1134
+  },
+  {
+    "day": "2018-02-21",
+    "wordCount": 1855,
+    "sum": 88025,
+    "numberOfDays": 77,
+    "average": 1143
+  },
+  {
+    "day": "2018-02-22",
+    "wordCount": 1034,
+    "sum": 89059,
+    "numberOfDays": 78,
+    "average": 1142
+  },
+  {
+    "day": "2018-02-23",
+    "wordCount": 1581,
+    "sum": 90640,
+    "numberOfDays": 79,
+    "average": 1147
+  },
+  {
+    "day": "2018-02-24",
+    "wordCount": 0,
+    "sum": 90640,
+    "numberOfDays": 80,
+    "average": 1133
+  },
+  {
+    "day": "2018-02-25",
+    "wordCount": 0,
+    "sum": 90640,
+    "numberOfDays": 81,
+    "average": 1119
+  },
+  {
+    "day": "2018-02-26",
+    "wordCount": 160,
+    "sum": 90800,
+    "numberOfDays": 82,
+    "average": 1107
+  },
+  {
+    "day": "2018-02-27",
+    "wordCount": 0,
+    "sum": 90800,
+    "numberOfDays": 83,
+    "average": 1094
+  },
+  {
+    "day": "2018-02-28",
+    "wordCount": 0,
+    "sum": 90800,
+    "numberOfDays": 84,
+    "average": 1081
+  },
+  {
+    "day": "2018-03-01",
+    "wordCount": 0,
+    "sum": 90800,
+    "numberOfDays": 85,
+    "average": 1068
+  },
+  {
+    "day": "2018-03-02",
+    "wordCount": 2121,
+    "sum": 92921,
+    "numberOfDays": 86,
+    "average": 1080
+  },
+  {
+    "day": "2018-03-03",
+    "wordCount": 1095,
+    "sum": 94016,
+    "numberOfDays": 87,
+    "average": 1081
+  },
+  {
+    "day": "2018-03-04",
+    "wordCount": 0,
+    "sum": 94016,
+    "numberOfDays": 88,
+    "average": 1068
+  },
+  {
+    "day": "2018-03-05",
+    "wordCount": 1722,
+    "sum": 95738,
+    "numberOfDays": 89,
+    "average": 1076
+  },
+  {
+    "day": "2018-03-06",
+    "wordCount": 1949,
+    "sum": 97687,
+    "numberOfDays": 90,
+    "average": 1085
+  },
+  {
+    "day": "2018-03-07",
+    "wordCount": 0,
+    "sum": 97687,
+    "numberOfDays": 91,
+    "average": 1073
+  },
+  {
+    "day": "2018-03-08",
+    "wordCount": 1015,
+    "sum": 98702,
+    "numberOfDays": 92,
+    "average": 1073
+  },
+  {
+    "day": "2018-03-09",
+    "wordCount": 1198,
+    "sum": 99900,
+    "numberOfDays": 93,
+    "average": 1074
+  },
+  {
+    "day": "2018-03-10",
+    "wordCount": 85,
+    "sum": 99985,
+    "numberOfDays": 94,
+    "average": 1064
+  },
+  {
+    "day": "2018-03-11",
+    "wordCount": 668,
+    "sum": 100653,
+    "numberOfDays": 95,
+    "average": 1060
+  },
+  {
+    "day": "2018-03-12",
+    "wordCount": 0,
+    "sum": 100653,
+    "numberOfDays": 96,
+    "average": 1048
+  },
+  {
+    "day": "2018-03-13",
+    "wordCount": 1123,
+    "sum": 101776,
+    "numberOfDays": 97,
+    "average": 1049
+  },
+  {
+    "day": "2018-03-14",
+    "wordCount": 864,
+    "sum": 102640,
+    "numberOfDays": 98,
+    "average": 1047
+  },
+  {
+    "day": "2018-03-15",
+    "wordCount": 0,
+    "sum": 102640,
+    "numberOfDays": 99,
+    "average": 1037
+  },
+  {
+    "day": "2018-03-16",
+    "wordCount": 2225,
+    "sum": 104865,
+    "numberOfDays": 100,
+    "average": 1049
+  },
+  {
+    "day": "2018-03-17",
+    "wordCount": 838,
+    "sum": 105703,
+    "numberOfDays": 101,
+    "average": 1047
+  },
+  {
+    "day": "2018-03-18",
+    "wordCount": 1106,
+    "sum": 106809,
+    "numberOfDays": 102,
+    "average": 1047
+  },
+  {
+    "day": "2018-03-19",
+    "wordCount": 1369,
+    "sum": 108178,
+    "numberOfDays": 103,
+    "average": 1050
+  },
+  {
+    "day": "2018-03-20",
+    "wordCount": 0,
+    "sum": 108178,
+    "numberOfDays": 104,
+    "average": 1040
+  },
+  {
+    "day": "2018-03-21",
+    "wordCount": 751,
+    "sum": 108929,
+    "numberOfDays": 105,
+    "average": 1037
+  },
+  {
+    "day": "2018-03-22",
+    "wordCount": 689,
+    "sum": 109618,
+    "numberOfDays": 106,
+    "average": 1034
+  },
+  {
+    "day": "2018-03-23",
+    "wordCount": 704,
+    "sum": 110322,
+    "numberOfDays": 107,
+    "average": 1031
+  },
+  {
+    "day": "2018-03-24",
+    "wordCount": 853,
+    "sum": 111175,
+    "numberOfDays": 108,
+    "average": 1029
+  },
+  {
+    "day": "2018-03-25",
+    "wordCount": 0,
+    "sum": 111175,
+    "numberOfDays": 109,
+    "average": 1020
+  },
+  {
+    "day": "2018-03-26",
+    "wordCount": 229,
+    "sum": 111404,
+    "numberOfDays": 110,
+    "average": 1013
+  },
+  {
+    "day": "2018-03-27",
+    "wordCount": 0,
+    "sum": 111404,
+    "numberOfDays": 111,
+    "average": 1004
+  },
+  {
+    "day": "2018-03-28",
+    "wordCount": 0,
+    "sum": 111404,
+    "numberOfDays": 112,
+    "average": 995
+  },
+  {
+    "day": "2018-03-29",
+    "wordCount": 248,
+    "sum": 111652,
+    "numberOfDays": 113,
+    "average": 988
+  },
+  {
+    "day": "2018-03-30",
+    "wordCount": 0,
+    "sum": 111652,
+    "numberOfDays": 114,
+    "average": 979
+  },
+  {
+    "day": "2018-03-31",
+    "wordCount": 0,
+    "sum": 111652,
+    "numberOfDays": 115,
+    "average": 971
+  },
+  {
+    "day": "2018-04-01",
+    "wordCount": 0,
+    "sum": 111652,
+    "numberOfDays": 116,
+    "average": 963
+  },
+  {
+    "day": "2018-04-02",
+    "wordCount": 0,
+    "sum": 111652,
+    "numberOfDays": 117,
+    "average": 954
+  },
+  {
+    "day": "2018-04-03",
+    "wordCount": 826,
+    "sum": 112478,
+    "numberOfDays": 118,
+    "average": 953
+  },
+  {
+    "day": "2018-04-04",
+    "wordCount": 0,
+    "sum": 112478,
+    "numberOfDays": 119,
+    "average": 945
+  },
+  {
+    "day": "2018-04-05",
+    "wordCount": 0,
+    "sum": 112478,
+    "numberOfDays": 120,
+    "average": 937
+  },
+  {
+    "day": "2018-04-06",
+    "wordCount": 0,
+    "sum": 112478,
+    "numberOfDays": 121,
+    "average": 930
+  },
+  {
+    "day": "2018-04-07",
+    "wordCount": 0,
+    "sum": 112478,
+    "numberOfDays": 122,
+    "average": 922
+  },
+  {
+    "day": "2018-04-08",
+    "wordCount": 0,
+    "sum": 112478,
+    "numberOfDays": 123,
+    "average": 914
+  },
+  {
+    "day": "2018-04-09",
+    "wordCount": 1102,
+    "sum": 113580,
+    "numberOfDays": 124,
+    "average": 916
+  },
+  {
+    "day": "2018-04-10",
+    "wordCount": 0,
+    "sum": 113580,
+    "numberOfDays": 125,
+    "average": 909
+  },
+  {
+    "day": "2018-04-11",
+    "wordCount": 0,
+    "sum": 113580,
+    "numberOfDays": 126,
+    "average": 901
+  },
+  {
+    "day": "2018-04-12",
+    "wordCount": 1055,
+    "sum": 114635,
+    "numberOfDays": 127,
+    "average": 903
+  },
+  {
+    "day": "2018-04-13",
+    "wordCount": 0,
+    "sum": 114635,
+    "numberOfDays": 128,
+    "average": 896
+  },
+  {
+    "day": "2018-04-14",
+    "wordCount": 0,
+    "sum": 114635,
+    "numberOfDays": 129,
+    "average": 889
+  },
+  {
+    "day": "2018-04-15",
+    "wordCount": 0,
+    "sum": 114635,
+    "numberOfDays": 130,
+    "average": 882
+  },
+  {
+    "day": "2018-04-16",
+    "wordCount": 449,
+    "sum": 115084,
+    "numberOfDays": 131,
+    "average": 879
+  },
+  {
+    "day": "2018-04-17",
+    "wordCount": 452,
+    "sum": 115536,
+    "numberOfDays": 132,
+    "average": 875
+  },
+  {
+    "day": "2018-04-18",
+    "wordCount": 0,
+    "sum": 115536,
+    "numberOfDays": 133,
+    "average": 869
+  },
+  {
+    "day": "2018-04-19",
+    "wordCount": 0,
+    "sum": 115536,
+    "numberOfDays": 134,
+    "average": 862
+  },
+  {
+    "day": "2018-04-20",
+    "wordCount": 0,
+    "sum": 115536,
+    "numberOfDays": 135,
+    "average": 856
+  },
+  {
+    "day": "2018-04-21",
+    "wordCount": 0,
+    "sum": 115536,
+    "numberOfDays": 136,
+    "average": 850
+  },
+  {
+    "day": "2018-04-22",
+    "wordCount": 142,
+    "sum": 115678,
+    "numberOfDays": 137,
+    "average": 844
+  },
+  {
+    "day": "2018-04-23",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 138,
+    "average": 838
+  },
+  {
+    "day": "2018-04-24",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 139,
+    "average": 832
+  },
+  {
+    "day": "2018-04-25",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 140,
+    "average": 826
+  },
+  {
+    "day": "2018-04-26",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 141,
+    "average": 820
+  },
+  {
+    "day": "2018-04-27",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 142,
+    "average": 815
+  },
+  {
+    "day": "2018-04-28",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 143,
+    "average": 809
+  },
+  {
+    "day": "2018-04-29",
+    "wordCount": 0,
+    "sum": 115678,
+    "numberOfDays": 144,
+    "average": 803
+  },
+  {
+    "day": "2018-04-30",
+    "wordCount": 1266,
+    "sum": 116944,
+    "numberOfDays": 145,
+    "average": 807
+  },
+  {
+    "day": "2018-05-01",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 146,
+    "average": 801
+  },
+  {
+    "day": "2018-05-02",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 147,
+    "average": 796
+  },
+  {
+    "day": "2018-05-03",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 148,
+    "average": 790
+  },
+  {
+    "day": "2018-05-04",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 149,
+    "average": 785
+  },
+  {
+    "day": "2018-05-05",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 150,
+    "average": 780
+  },
+  {
+    "day": "2018-05-06",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 151,
+    "average": 774
+  },
+  {
+    "day": "2018-05-07",
+    "wordCount": 0,
+    "sum": 116944,
+    "numberOfDays": 152,
+    "average": 769
+  },
+  {
+    "day": "2018-05-08",
+    "wordCount": 1196,
+    "sum": 118140,
+    "numberOfDays": 153,
+    "average": 772
+  },
+  {
+    "day": "2018-05-09",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 154,
+    "average": 767
+  },
+  {
+    "day": "2018-05-10",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 155,
+    "average": 762
+  },
+  {
+    "day": "2018-05-11",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 156,
+    "average": 757
+  },
+  {
+    "day": "2018-05-12",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 157,
+    "average": 752
+  },
+  {
+    "day": "2018-05-13",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 158,
+    "average": 748
+  },
+  {
+    "day": "2018-05-14",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 159,
+    "average": 743
+  },
+  {
+    "day": "2018-05-15",
+    "wordCount": 0,
+    "sum": 118140,
+    "numberOfDays": 160,
+    "average": 738
+  },
+  {
+    "day": "2018-05-16",
+    "wordCount": 518,
+    "sum": 118658,
+    "numberOfDays": 161,
+    "average": 737
+  },
+  {
+    "day": "2018-05-17",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 162,
+    "average": 732
+  },
+  {
+    "day": "2018-05-18",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 163,
+    "average": 728
+  },
+  {
+    "day": "2018-05-19",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 164,
+    "average": 724
+  },
+  {
+    "day": "2018-05-20",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 165,
+    "average": 719
+  },
+  {
+    "day": "2018-05-21",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 166,
+    "average": 715
+  },
+  {
+    "day": "2018-05-22",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 167,
+    "average": 711
+  },
+  {
+    "day": "2018-05-23",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 168,
+    "average": 706
+  },
+  {
+    "day": "2018-05-24",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 169,
+    "average": 702
+  },
+  {
+    "day": "2018-05-25",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 170,
+    "average": 698
+  },
+  {
+    "day": "2018-05-26",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 171,
+    "average": 694
+  },
+  {
+    "day": "2018-05-27",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 172,
+    "average": 690
+  },
+  {
+    "day": "2018-05-28",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 173,
+    "average": 686
+  },
+  {
+    "day": "2018-05-29",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 174,
+    "average": 682
+  },
+  {
+    "day": "2018-05-30",
+    "wordCount": 0,
+    "sum": 118658,
+    "numberOfDays": 175,
+    "average": 678
+  },
+  {
+    "day": "2018-05-31",
+    "wordCount": 167,
+    "sum": 118825,
+    "numberOfDays": 176,
+    "average": 675
+  },
+  {
+    "day": "2018-06-01",
+    "wordCount": 0,
+    "sum": 118825,
+    "numberOfDays": 177,
+    "average": 671
+  },
+  {
+    "day": "2018-06-02",
+    "wordCount": 967,
+    "sum": 119792,
+    "numberOfDays": 178,
+    "average": 673
+  },
+  {
+    "day": "2018-06-03",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 179,
+    "average": 669
+  },
+  {
+    "day": "2018-06-04",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 180,
+    "average": 666
+  },
+  {
+    "day": "2018-06-05",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 181,
+    "average": 662
+  },
+  {
+    "day": "2018-06-06",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 182,
+    "average": 658
+  },
+  {
+    "day": "2018-06-07",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 183,
+    "average": 655
+  },
+  {
+    "day": "2018-06-08",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 184,
+    "average": 651
+  },
+  {
+    "day": "2018-06-09",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 185,
+    "average": 648
+  },
+  {
+    "day": "2018-06-10",
+    "wordCount": 0,
+    "sum": 119792,
+    "numberOfDays": 186,
+    "average": 644
+  },
+  {
+    "day": "2018-06-11",
+    "wordCount": 1027,
+    "sum": 120819,
+    "numberOfDays": 187,
+    "average": 646
+  },
+  {
+    "day": "2018-06-12",
+    "wordCount": 1231,
+    "sum": 122050,
+    "numberOfDays": 188,
+    "average": 649
+  },
+  {
+    "day": "2018-06-13",
+    "wordCount": 0,
+    "sum": 122050,
+    "numberOfDays": 189,
+    "average": 646
+  },
+  {
+    "day": "2018-06-14",
+    "wordCount": 0,
+    "sum": 122050,
+    "numberOfDays": 190,
+    "average": 642
+  },
+  {
+    "day": "2018-06-15",
+    "wordCount": 0,
+    "sum": 122050,
+    "numberOfDays": 191,
+    "average": 639
+  },
+  {
+    "day": "2018-06-16",
+    "wordCount": 0,
+    "sum": 122050,
+    "numberOfDays": 192,
+    "average": 636
+  },
+  {
+    "day": "2018-06-17",
+    "wordCount": 0,
+    "sum": 122050,
+    "numberOfDays": 193,
+    "average": 632
+  },
+  {
+    "day": "2018-06-18",
+    "wordCount": 688,
+    "sum": 122738,
+    "numberOfDays": 194,
+    "average": 633
+  },
+  {
+    "day": "2018-06-19",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 195,
+    "average": 629
+  },
+  {
+    "day": "2018-06-20",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 196,
+    "average": 626
+  },
+  {
+    "day": "2018-06-21",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 197,
+    "average": 623
+  },
+  {
+    "day": "2018-06-22",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 198,
+    "average": 620
+  },
+  {
+    "day": "2018-06-23",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 199,
+    "average": 617
+  },
+  {
+    "day": "2018-06-24",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 200,
+    "average": 614
+  },
+  {
+    "day": "2018-06-25",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 201,
+    "average": 611
+  },
+  {
+    "day": "2018-06-26",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 202,
+    "average": 608
+  },
+  {
+    "day": "2018-06-27",
+    "wordCount": 0,
+    "sum": 122738,
+    "numberOfDays": 203,
+    "average": 605
+  },
+  {
+    "day": "2018-06-28",
+    "wordCount": 225,
+    "sum": 122963,
+    "numberOfDays": 204,
+    "average": 603
+  },
+  {
+    "day": "2018-06-29",
+    "wordCount": 0,
+    "sum": 122963,
+    "numberOfDays": 205,
+    "average": 600
+  },
+  {
+    "day": "2018-06-30",
+    "wordCount": 0,
+    "sum": 122963,
+    "numberOfDays": 206,
+    "average": 597
+  },
+  {
+    "day": "2018-07-01",
+    "wordCount": 0,
+    "sum": 122963,
+    "numberOfDays": 207,
+    "average": 594
+  },
+  {
+    "day": "2018-07-02",
+    "wordCount": 0,
+    "sum": 122963,
+    "numberOfDays": 208,
+    "average": 591
+  },
+  {
+    "day": "2018-07-03",
+    "wordCount": 0,
+    "sum": 122963,
+    "numberOfDays": 209,
+    "average": 588
+  },
+  {
+    "day": "2018-07-04",
+    "wordCount": 0,
+    "sum": 122963,
+    "numberOfDays": 210,
+    "average": 586
+  },
+  {
+    "day": "2018-07-05",
+    "wordCount": 855,
+    "sum": 123818,
+    "numberOfDays": 211,
+    "average": 587
+  },
+  {
+    "day": "2018-07-06",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 212,
+    "average": 584
+  },
+  {
+    "day": "2018-07-07",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 213,
+    "average": 581
+  },
+  {
+    "day": "2018-07-08",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 214,
+    "average": 579
+  },
+  {
+    "day": "2018-07-09",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 215,
+    "average": 576
+  },
+  {
+    "day": "2018-07-10",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 216,
+    "average": 573
+  },
+  {
+    "day": "2018-07-11",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 217,
+    "average": 571
+  },
+  {
+    "day": "2018-07-12",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 218,
+    "average": 568
+  },
+  {
+    "day": "2018-07-13",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 219,
+    "average": 565
+  },
+  {
+    "day": "2018-07-14",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 220,
+    "average": 563
+  },
+  {
+    "day": "2018-07-15",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 221,
+    "average": 560
+  },
+  {
+    "day": "2018-07-16",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 222,
+    "average": 558
+  },
+  {
+    "day": "2018-07-17",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 223,
+    "average": 555
+  },
+  {
+    "day": "2018-07-18",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 224,
+    "average": 553
+  },
+  {
+    "day": "2018-07-19",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 225,
+    "average": 550
+  },
+  {
+    "day": "2018-07-20",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 226,
+    "average": 548
+  },
+  {
+    "day": "2018-07-21",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 227,
+    "average": 545
+  },
+  {
+    "day": "2018-07-22",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 228,
+    "average": 543
+  },
+  {
+    "day": "2018-07-23",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 229,
+    "average": 541
+  },
+  {
+    "day": "2018-07-24",
+    "wordCount": 0,
+    "sum": 123818,
+    "numberOfDays": 230,
+    "average": 538
+  },
+  {
+    "day": "2018-07-25",
+    "wordCount": 1388,
+    "sum": 125206,
+    "numberOfDays": 231,
+    "average": 542
+  },
+  {
+    "day": "2018-07-26",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 232,
+    "average": 540
+  },
+  {
+    "day": "2018-07-27",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 233,
+    "average": 537
+  },
+  {
+    "day": "2018-07-28",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 234,
+    "average": 535
+  },
+  {
+    "day": "2018-07-29",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 235,
+    "average": 533
+  },
+  {
+    "day": "2018-07-30",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 236,
+    "average": 531
+  },
+  {
+    "day": "2018-07-31",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 237,
+    "average": 528
+  },
+  {
+    "day": "2018-08-01",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 238,
+    "average": 526
+  },
+  {
+    "day": "2018-08-02",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 239,
+    "average": 524
+  },
+  {
+    "day": "2018-08-03",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 240,
+    "average": 522
+  },
+  {
+    "day": "2018-08-04",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 241,
+    "average": 520
+  },
+  {
+    "day": "2018-08-05",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 242,
+    "average": 517
+  },
+  {
+    "day": "2018-08-06",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 243,
+    "average": 515
+  },
+  {
+    "day": "2018-08-07",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 244,
+    "average": 513
+  },
+  {
+    "day": "2018-08-08",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 245,
+    "average": 511
+  },
+  {
+    "day": "2018-08-09",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 246,
+    "average": 509
+  },
+  {
+    "day": "2018-08-10",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 247,
+    "average": 507
+  },
+  {
+    "day": "2018-08-11",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 248,
+    "average": 505
+  },
+  {
+    "day": "2018-08-12",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 249,
+    "average": 503
+  },
+  {
+    "day": "2018-08-13",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 250,
+    "average": 501
+  },
+  {
+    "day": "2018-08-14",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 251,
+    "average": 499
+  },
+  {
+    "day": "2018-08-15",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 252,
+    "average": 497
+  },
+  {
+    "day": "2018-08-16",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 253,
+    "average": 495
+  },
+  {
+    "day": "2018-08-17",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 254,
+    "average": 493
+  },
+  {
+    "day": "2018-08-18",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 255,
+    "average": 491
+  },
+  {
+    "day": "2018-08-19",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 256,
+    "average": 489
+  },
+  {
+    "day": "2018-08-20",
+    "wordCount": 0,
+    "sum": 125206,
+    "numberOfDays": 257,
+    "average": 487
+  },
+  {
+    "day": "2018-08-21",
+    "wordCount": 1320,
+    "sum": 126526,
+    "numberOfDays": 258,
+    "average": 490
+  },
+  {
+    "day": "2018-08-22",
+    "wordCount": 0,
+    "sum": 126526,
+    "numberOfDays": 259,
+    "average": 489
+  },
+  {
+    "day": "2018-08-23",
+    "wordCount": 215,
+    "sum": 126741,
+    "numberOfDays": 260,
+    "average": 487
+  },
+  {
+    "day": "2018-08-24",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 261,
+    "average": 486
+  },
+  {
+    "day": "2018-08-25",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 262,
+    "average": 484
+  },
+  {
+    "day": "2018-08-26",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 263,
+    "average": 482
+  },
+  {
+    "day": "2018-08-27",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 264,
+    "average": 480
+  },
+  {
+    "day": "2018-08-28",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 265,
+    "average": 478
+  },
+  {
+    "day": "2018-08-29",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 266,
+    "average": 476
+  },
+  {
+    "day": "2018-08-30",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 267,
+    "average": 475
+  },
+  {
+    "day": "2018-08-31",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 268,
+    "average": 473
+  },
+  {
+    "day": "2018-09-01",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 269,
+    "average": 471
+  },
+  {
+    "day": "2018-09-02",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 270,
+    "average": 469
+  },
+  {
+    "day": "2018-09-03",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 266,
+    "average": 476
+  },
+  {
+    "day": "2018-09-04",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 267,
+    "average": 475
+  },
+  {
+    "day": "2018-09-05",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 268,
+    "average": 473
+  },
+  {
+    "day": "2018-09-06",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 269,
+    "average": 471
+  },
+  {
+    "day": "2018-09-07",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 270,
+    "average": 469
+  },
+  {
+    "day": "2018-09-08",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 271,
+    "average": 468
+  },
+  {
+    "day": "2018-09-09",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 272,
+    "average": 466
+  },
+  {
+    "day": "2018-09-10",
+    "wordCount": 0,
+    "sum": 126741,
+    "numberOfDays": 273,
+    "average": 464
+  },
+  {
+    "day": "2018-09-11",
+    "wordCount": 693,
+    "sum": 127434,
+    "numberOfDays": 274,
+    "average": 465
+  },
+  {
+    "day": "2018-09-12",
+    "wordCount": 0,
+    "sum": 127434,
+    "numberOfDays": 275,
+    "average": 463
+  },
+  {
+    "day": "2018-09-13",
+    "wordCount": 0,
+    "sum": 127434,
+    "numberOfDays": 276,
+    "average": 462
+  },
+  {
+    "day": "2018-09-14",
+    "wordCount": 0,
+    "sum": 127434,
+    "numberOfDays": 277,
+    "average": 460
+  },
+  {
+    "day": "2018-09-15",
+    "wordCount": 0,
+    "sum": 127434,
+    "numberOfDays": 278,
+    "average": 458
+  },
+  {
+    "day": "2018-09-16",
+    "wordCount": 0,
+    "sum": 127434,
+    "numberOfDays": 279,
+    "average": 457
+  },
+  {
+    "day": "2018-09-17",
+    "wordCount": 2194,
+    "sum": 129628,
+    "numberOfDays": 280,
+    "average": 463
+  },
+  {
+    "day": "2018-09-18",
+    "wordCount": 494,
+    "sum": 130122,
+    "numberOfDays": 281,
+    "average": 463
+  },
+  {
+    "day": "2018-09-19",
+    "wordCount": 0,
+    "sum": 130122,
+    "numberOfDays": 282,
+    "average": 461
+  },
+  {
+    "day": "2018-09-20",
+    "wordCount": 0,
+    "sum": 130122,
+    "numberOfDays": 283,
+    "average": 460
+  },
+  {
+    "day": "2018-09-21",
+    "wordCount": 0,
+    "sum": 130122,
+    "numberOfDays": 284,
+    "average": 458
+  },
+  {
+    "day": "2018-09-22",
+    "wordCount": 0,
+    "sum": 130122,
+    "numberOfDays": 285,
+    "average": 457
+  },
+  {
+    "day": "2018-09-23",
+    "wordCount": 0,
+    "sum": 130122,
+    "numberOfDays": 286,
+    "average": 455
+  },
+  {
+    "day": "2018-09-24",
+    "wordCount": 1049,
+    "sum": 131171,
+    "numberOfDays": 287,
+    "average": 457
+  },
+  {
+    "day": "2018-09-25",
+    "wordCount": 0,
+    "sum": 131171,
+    "numberOfDays": 288,
+    "average": 455
+  },
+  {
+    "day": "2018-09-26",
+    "wordCount": 356,
+    "sum": 131527,
+    "numberOfDays": 289,
+    "average": 455
+  },
+  {
+    "day": "2018-09-27",
+    "wordCount": 35,
+    "sum": 131562,
+    "numberOfDays": 290,
+    "average": 454
+  },
+  {
+    "day": "2018-09-28",
+    "wordCount": 0,
+    "sum": 131562,
+    "numberOfDays": 291,
+    "average": 452
+  },
+  {
+    "day": "2018-09-29",
+    "wordCount": 0,
+    "sum": 131562,
+    "numberOfDays": 292,
+    "average": 451
+  },
+  {
+    "day": "2018-09-30",
+    "wordCount": 0,
+    "sum": 131562,
+    "numberOfDays": 293,
+    "average": 449
+  },
+  {
+    "day": "2018-10-01",
+    "wordCount": 238,
+    "sum": 131800,
+    "numberOfDays": 294,
+    "average": 448
+  },
+  {
+    "day": "2018-10-02",
+    "wordCount": 614,
+    "sum": 132414,
+    "numberOfDays": 295,
+    "average": 449
+  },
+  {
+    "day": "2018-10-03",
+    "wordCount": 404,
+    "sum": 132818,
+    "numberOfDays": 296,
+    "average": 449
+  },
+  {
+    "day": "2018-10-04",
+    "wordCount": 1470,
+    "sum": 134288,
+    "numberOfDays": 297,
+    "average": 452
+  },
+  {
+    "day": "2018-10-05",
+    "wordCount": 1018,
+    "sum": 135306,
+    "numberOfDays": 298,
+    "average": 454
+  },
+  {
+    "day": "2018-10-06",
+    "wordCount": 1100,
+    "sum": 136406,
+    "numberOfDays": 299,
+    "average": 456
+  },
+  {
+    "day": "2018-10-07",
+    "wordCount": 1076,
+    "sum": 137482,
+    "numberOfDays": 300,
+    "average": 458
+  },
+  {
+    "day": "2018-10-08",
+    "wordCount": 814,
+    "sum": 138296,
+    "numberOfDays": 301,
+    "average": 459
+  },
+  {
+    "day": "2018-10-09",
+    "wordCount": 1722,
+    "sum": 140018,
+    "numberOfDays": 302,
+    "average": 464
+  },
+  {
+    "day": "2018-10-10",
+    "wordCount": 768,
+    "sum": 140786,
+    "numberOfDays": 303,
+    "average": 465
+  },
+  {
+    "day": "2018-10-11",
+    "wordCount": 827,
+    "sum": 141613,
+    "numberOfDays": 304,
+    "average": 466
+  },
+  {
+    "day": "2018-10-12",
+    "wordCount": 150,
+    "sum": 141763,
+    "numberOfDays": 305,
+    "average": 465
+  },
+  {
+    "day": "2018-10-13",
+    "wordCount": 36,
+    "sum": 141799,
+    "numberOfDays": 306,
+    "average": 463
+  },
+  {
+    "day": "2018-10-14",
+    "wordCount": 332,
+    "sum": 142131,
+    "numberOfDays": 307,
+    "average": 463
+  },
+  {
+    "day": "2018-10-15",
+    "wordCount": 1363,
+    "sum": 143494,
+    "numberOfDays": 308,
+    "average": 466
+  },
+  {
+    "day": "2018-10-16",
+    "wordCount": 0,
+    "sum": 143494,
+    "numberOfDays": 309,
+    "average": 464
+  },
+  {
+    "day": "2018-10-17",
+    "wordCount": 12,
+    "sum": 143506,
+    "numberOfDays": 310,
+    "average": 463
+  },
+  {
+    "day": "2018-10-18",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 311,
+    "average": 461
+  },
+  {
+    "day": "2018-10-19",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 312,
+    "average": 460
+  },
+  {
+    "day": "2018-10-20",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 313,
+    "average": 458
+  },
+  {
+    "day": "2018-10-21",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 314,
+    "average": 457
+  },
+  {
+    "day": "2018-10-22",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 315,
+    "average": 456
+  },
+  {
+    "day": "2018-10-23",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 316,
+    "average": 454
+  },
+  {
+    "day": "2018-10-24",
+    "wordCount": 0,
+    "sum": 143506,
+    "numberOfDays": 317,
+    "average": 453
+  },
+  {
+    "day": "2018-10-25",
+    "wordCount": 136,
+    "sum": 143642,
+    "numberOfDays": 318,
+    "average": 452
+  },
+  {
+    "day": "2018-10-26",
+    "wordCount": 0,
+    "sum": 143642,
+    "numberOfDays": 319,
+    "average": 450
+  },
+  {
+    "day": "2018-10-27",
+    "wordCount": 221,
+    "sum": 143863,
+    "numberOfDays": 320,
+    "average": 450
+  },
+  {
+    "day": "2018-10-28",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 321,
+    "average": 448
+  },
+  {
+    "day": "2018-10-29",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 322,
+    "average": 447
+  },
+  {
+    "day": "2018-10-30",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 323,
+    "average": 445
+  },
+  {
+    "day": "2018-10-31",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 324,
+    "average": 444
+  },
+  {
+    "day": "2018-11-01",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 325,
+    "average": 443
+  },
+  {
+    "day": "2018-11-02",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 326,
+    "average": 441
+  },
+  {
+    "day": "2018-11-03",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 327,
+    "average": 440
+  },
+  {
+    "day": "2018-11-04",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 328,
+    "average": 439
+  },
+  {
+    "day": "2018-11-05",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 329,
+    "average": 437
+  },
+  {
+    "day": "2018-11-06",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 330,
+    "average": 436
+  },
+  {
+    "day": "2018-11-07",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 331,
+    "average": 435
+  },
+  {
+    "day": "2018-11-08",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 332,
+    "average": 433
+  },
+  {
+    "day": "2018-11-09",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 333,
+    "average": 432
+  },
+  {
+    "day": "2018-11-10",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 334,
+    "average": 431
+  },
+  {
+    "day": "2018-11-11",
+    "wordCount": 0,
+    "sum": 143863,
+    "numberOfDays": 335,
+    "average": 429
+  },
+  {
+    "day": "2018-11-12",
+    "wordCount": 604,
+    "sum": 144467,
+    "numberOfDays": 336,
+    "average": 430
+  },
+  {
+    "day": "2018-11-13",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 337,
+    "average": 429
+  },
+  {
+    "day": "2018-11-14",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 338,
+    "average": 427
+  },
+  {
+    "day": "2018-11-15",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 339,
+    "average": 426
+  },
+  {
+    "day": "2018-11-16",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 340,
+    "average": 425
+  },
+  {
+    "day": "2018-11-17",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 341,
+    "average": 424
+  },
+  {
+    "day": "2018-11-18",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 342,
+    "average": 422
+  },
+  {
+    "day": "2018-11-19",
+    "wordCount": 0,
+    "sum": 144467,
+    "numberOfDays": 343,
+    "average": 421
+  },
+  {
+    "day": "2018-11-20",
+    "wordCount": 13,
+    "sum": 144480,
+    "numberOfDays": 344,
+    "average": 420
+  },
+  {
+    "day": "2018-11-21",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 345,
+    "average": 419
+  },
+  {
+    "day": "2018-11-22",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 346,
+    "average": 418
+  },
+  {
+    "day": "2018-11-23",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 347,
+    "average": 416
+  },
+  {
+    "day": "2018-11-24",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 348,
+    "average": 415
+  },
+  {
+    "day": "2018-11-25",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 349,
+    "average": 414
+  },
+  {
+    "day": "2018-11-26",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 350,
+    "average": 413
+  },
+  {
+    "day": "2018-11-27",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 351,
+    "average": 412
+  },
+  {
+    "day": "2018-11-28",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 352,
+    "average": 410
+  },
+  {
+    "day": "2018-11-29",
+    "wordCount": 0,
+    "sum": 144480,
+    "numberOfDays": 353,
+    "average": 409
+  },
+  {
+    "day": "2018-11-30",
+    "wordCount": 748,
+    "sum": 145228,
+    "numberOfDays": 354,
+    "average": 410
+  },
+  {
+    "day": "2018-12-01",
+    "wordCount": 722,
+    "sum": 145950,
+    "numberOfDays": 355,
+    "average": 411
+  },
+  {
+    "day": "2018-12-02",
+    "wordCount": 0,
+    "sum": 145950,
+    "numberOfDays": 356,
+    "average": 410
+  },
+  {
+    "day": "2018-12-03",
+    "wordCount": 0,
+    "sum": 145950,
+    "numberOfDays": 357,
+    "average": 409
+  },
+  {
+    "day": "2018-12-04",
+    "wordCount": 158,
+    "sum": 146108,
+    "numberOfDays": 358,
+    "average": 408
+  },
+  {
+    "day": "2018-12-05",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 359,
+    "average": 407
+  },
+  {
+    "day": "2018-12-06",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 360,
+    "average": 406
+  },
+  {
+    "day": "2018-12-07",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 361,
+    "average": 405
+  },
+  {
+    "day": "2018-12-08",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 362,
+    "average": 404
+  },
+  {
+    "day": "2018-12-09",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 363,
+    "average": 403
+  },
+  {
+    "day": "2018-12-10",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 364,
+    "average": 401
+  },
+  {
+    "day": "2018-12-11",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 365,
+    "average": 400
+  },
+  {
+    "day": "2018-12-12",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 366,
+    "average": 399
+  },
+  {
+    "day": "2018-12-13",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 367,
+    "average": 398
+  },
+  {
+    "day": "2018-12-14",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 368,
+    "average": 397
+  },
+  {
+    "day": "2018-12-15",
+    "wordCount": 0,
+    "sum": 146108,
+    "numberOfDays": 369,
+    "average": 396
+  },
+  {
+    "day": "2018-12-16",
+    "wordCount": 621,
+    "sum": 146729,
+    "numberOfDays": 370,
+    "average": 397
+  },
+  {
+    "day": "2018-12-17",
+    "wordCount": 0,
+    "sum": 146729,
+    "numberOfDays": 371,
+    "average": 395
+  },
+  {
+    "day": "2018-12-18",
+    "wordCount": 0,
+    "sum": 146729,
+    "numberOfDays": 372,
+    "average": 394
+  },
+  {
+    "day": "2018-12-19",
+    "wordCount": 0,
+    "sum": 146729,
+    "numberOfDays": 373,
+    "average": 393
+  },
+  {
+    "day": "2018-12-20",
+    "wordCount": 14,
+    "sum": 146743,
+    "numberOfDays": 374,
+    "average": 392
+  },
+  {
+    "day": "2018-12-21",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 375,
+    "average": 391
+  },
+  {
+    "day": "2018-12-22",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 376,
+    "average": 390
+  },
+  {
+    "day": "2018-12-23",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 377,
+    "average": 389
+  },
+  {
+    "day": "2018-12-24",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 378,
+    "average": 388
+  },
+  {
+    "day": "2018-12-25",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 379,
+    "average": 387
+  },
+  {
+    "day": "2018-12-26",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 380,
+    "average": 386
+  },
+  {
+    "day": "2018-12-27",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 381,
+    "average": 385
+  },
+  {
+    "day": "2018-12-28",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 382,
+    "average": 384
+  },
+  {
+    "day": "2018-12-29",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 383,
+    "average": 383
+  },
+  {
+    "day": "2018-12-30",
+    "wordCount": 0,
+    "sum": 146743,
+    "numberOfDays": 384,
+    "average": 382
+  },
+  {
+    "day": "2018-12-31",
+    "wordCount": 1439,
+    "sum": 148182,
+    "numberOfDays": 385,
+    "average": 385
+  },
+  {
+    "day": "2019-01-01",
+    "wordCount": 0,
+    "sum": 148182,
+    "numberOfDays": 386,
+    "average": 384
+  },
+  {
+    "day": "2019-01-02",
+    "wordCount": 0,
+    "sum": 148182,
+    "numberOfDays": 387,
+    "average": 383
+  },
+  {
+    "day": "2019-01-03",
+    "wordCount": 0,
+    "sum": 148182,
+    "numberOfDays": 388,
+    "average": 382
+  },
+  {
+    "day": "2019-01-04",
+    "wordCount": 0,
+    "sum": 148182,
+    "numberOfDays": 389,
+    "average": 381
+  },
+  {
+    "day": "2019-01-05",
+    "wordCount": 0,
+    "sum": 148182,
+    "numberOfDays": 390,
+    "average": 380
+  },
+  {
+    "day": "2019-01-06",
+    "wordCount": 660,
+    "sum": 148842,
+    "numberOfDays": 391,
+    "average": 381
+  },
+  {
+    "day": "2019-01-07",
+    "wordCount": 0,
+    "sum": 148842,
+    "numberOfDays": 392,
+    "average": 380
+  },
+  {
+    "day": "2019-01-08",
+    "wordCount": 0,
+    "sum": 148842,
+    "numberOfDays": 393,
+    "average": 379
+  },
+  {
+    "day": "2019-01-09",
+    "wordCount": 0,
+    "sum": 148842,
+    "numberOfDays": 394,
+    "average": 378
+  },
+  {
+    "day": "2019-01-10",
+    "wordCount": 186,
+    "sum": 149028,
+    "numberOfDays": 395,
+    "average": 377
+  },
+  {
+    "day": "2019-01-11",
+    "wordCount": 0,
+    "sum": 149028,
+    "numberOfDays": 396,
+    "average": 376
+  },
+  {
+    "day": "2019-01-12",
+    "wordCount": 0,
+    "sum": 149028,
+    "numberOfDays": 397,
+    "average": 375
+  },
+  {
+    "day": "2019-01-14",
+    "wordCount": 0,
+    "sum": 149028,
+    "numberOfDays": 398,
+    "average": 374
+  },
+  {
+    "day": "2019-01-15",
+    "wordCount": 0,
+    "sum": 149028,
+    "numberOfDays": 399,
+    "average": 374
+  },
+  {
+    "day": "2019-01-16",
+    "wordCount": 2587,
+    "sum": 151615,
+    "numberOfDays": 400,
+    "average": 379
+  },
+  {
+    "day": "2019-01-17",
+    "wordCount": 0,
+    "sum": 151615,
+    "numberOfDays": 401,
+    "average": 378
+  },
+  {
+    "day": "2019-01-18",
+    "wordCount": 0,
+    "sum": 151615,
+    "numberOfDays": 402,
+    "average": 377
+  },
+  {
+    "day": "2019-01-19",
+    "wordCount": 0,
+    "sum": 151615,
+    "numberOfDays": 403,
+    "average": 376
+  },
+  {
+    "day": "2019-01-20",
+    "wordCount": 0,
+    "sum": 151615,
+    "numberOfDays": 404,
+    "average": 375
+  },
+  {
+    "day": "2019-01-21",
+    "wordCount": 0,
+    "sum": 151615,
+    "numberOfDays": 405,
+    "average": 374
+  },
+  {
+    "day": "2019-01-22",
+    "wordCount": 25,
+    "sum": 151640,
+    "numberOfDays": 406,
+    "average": 373
+  },
+  {
+    "day": "2019-01-23",
+    "wordCount": 0,
+    "sum": 151640,
+    "numberOfDays": 407,
+    "average": 373
+  },
+  {
+    "day": "2019-01-24",
+    "wordCount": 0,
+    "sum": 151640,
+    "numberOfDays": 408,
+    "average": 372
+  },
+  {
+    "day": "2019-01-25",
+    "wordCount": 0,
+    "sum": 151640,
+    "numberOfDays": 409,
+    "average": 371
+  },
+  {
+    "day": "2019-01-26",
+    "wordCount": 518,
+    "sum": 152158,
+    "numberOfDays": 410,
+    "average": 371
+  },
+  {
+    "day": "2019-01-27",
+    "wordCount": 0,
+    "sum": 152158,
+    "numberOfDays": 411,
+    "average": 370
+  },
+  {
+    "day": "2019-01-28",
+    "wordCount": 23,
+    "sum": 152181,
+    "numberOfDays": 412,
+    "average": 369
+  },
+  {
+    "day": "2019-01-13",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 413,
+    "average": 368
+  },
+  {
+    "day": "2019-01-29",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 414,
+    "average": 368
+  },
+  {
+    "day": "2019-01-30",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 415,
+    "average": 367
+  },
+  {
+    "day": "2019-01-31",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 416,
+    "average": 366
+  },
+  {
+    "day": "2019-02-01",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 417,
+    "average": 365
+  },
+  {
+    "day": "2019-02-02",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 418,
+    "average": 364
+  },
+  {
+    "day": "2019-02-03",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 419,
+    "average": 363
+  },
+  {
+    "day": "2019-02-04",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 420,
+    "average": 362
+  },
+  {
+    "day": "2019-02-05",
+    "wordCount": 0,
+    "sum": 152181,
+    "numberOfDays": 421,
+    "average": 361
+  },
+  {
+    "day": "2019-02-06",
+    "wordCount": 69,
+    "sum": 152250,
+    "numberOfDays": 422,
+    "average": 361
+  },
+  {
+    "day": "2019-02-07",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 423,
+    "average": 360
+  },
+  {
+    "day": "2019-02-08",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 424,
+    "average": 359
+  },
+  {
+    "day": "2019-02-09",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 425,
+    "average": 358
+  },
+  {
+    "day": "2019-02-10",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 426,
+    "average": 357
+  },
+  {
+    "day": "2019-02-11",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 427,
+    "average": 357
+  },
+  {
+    "day": "2019-02-12",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 428,
+    "average": 356
+  },
+  {
+    "day": "2019-02-13",
+    "wordCount": 0,
+    "sum": 152250,
+    "numberOfDays": 429,
+    "average": 355
+  },
+  {
+    "day": "2019-02-14",
+    "wordCount": 880,
+    "sum": 153130,
+    "numberOfDays": 430,
+    "average": 356
+  },
+  {
+    "day": "2019-02-15",
+    "wordCount": 940,
+    "sum": 154070,
+    "numberOfDays": 431,
+    "average": 357
+  },
+  {
+    "day": "2019-02-16",
+    "wordCount": 0,
+    "sum": 154070,
+    "numberOfDays": 432,
+    "average": 357
+  },
+  {
+    "day": "2019-02-17",
+    "wordCount": 0,
+    "sum": 154070,
+    "numberOfDays": 433,
+    "average": 356
+  },
+  {
+    "day": "2019-02-18",
+    "wordCount": 14,
+    "sum": 154084,
+    "numberOfDays": 434,
+    "average": 355
+  },
+  {
+    "day": "2019-02-19",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 435,
+    "average": 354
+  },
+  {
+    "day": "2019-02-20",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 436,
+    "average": 353
+  },
+  {
+    "day": "2019-02-21",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 437,
+    "average": 353
+  },
+  {
+    "day": "2019-02-22",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 438,
+    "average": 352
+  },
+  {
+    "day": "2019-02-23",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 439,
+    "average": 351
+  },
+  {
+    "day": "2019-02-24",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 440,
+    "average": 350
+  },
+  {
+    "day": "2019-02-25",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 441,
+    "average": 349
+  },
+  {
+    "day": "2019-02-26",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 442,
+    "average": 349
+  },
+  {
+    "day": "2019-02-27",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 443,
+    "average": 348
+  },
+  {
+    "day": "2019-02-28",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 444,
+    "average": 347
+  },
+  {
+    "day": "2019-03-01",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 445,
+    "average": 346
+  },
+  {
+    "day": "2019-03-02",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 446,
+    "average": 345
+  },
+  {
+    "day": "2019-03-03",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 447,
+    "average": 345
+  },
+  {
+    "day": "2019-03-04",
+    "wordCount": 0,
+    "sum": 154084,
+    "numberOfDays": 448,
+    "average": 344
+  },
+  {
+    "day": "2019-03-05",
+    "wordCount": 991,
+    "sum": 155075,
+    "numberOfDays": 449,
+    "average": 345
+  },
+  {
+    "day": "2019-03-06",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 450,
+    "average": 345
+  },
+  {
+    "day": "2019-03-07",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 451,
+    "average": 344
+  },
+  {
+    "day": "2019-03-08",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 452,
+    "average": 343
+  },
+  {
+    "day": "2019-03-09",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 453,
+    "average": 342
+  },
+  {
+    "day": "2019-03-10",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 454,
+    "average": 342
+  },
+  {
+    "day": "2019-03-11",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 455,
+    "average": 341
+  },
+  {
+    "day": "2019-03-12",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 456,
+    "average": 340
+  },
+  {
+    "day": "2019-03-17",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 457,
+    "average": 339
+  },
+  {
+    "day": "2019-03-18",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 458,
+    "average": 339
+  },
+  {
+    "day": "2019-03-19",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 459,
+    "average": 338
+  },
+  {
+    "day": "2019-03-20",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 460,
+    "average": 337
+  },
+  {
+    "day": "2019-03-21",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 461,
+    "average": 336
+  },
+  {
+    "day": "2019-03-22",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 462,
+    "average": 336
+  },
+  {
+    "day": "2019-03-23",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 463,
+    "average": 335
+  },
+  {
+    "day": "2019-03-24",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 464,
+    "average": 334
+  },
+  {
+    "day": "2019-03-25",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 465,
+    "average": 333
+  },
+  {
+    "day": "2019-03-26",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 466,
+    "average": 333
+  },
+  {
+    "day": "2019-03-27",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 467,
+    "average": 332
+  },
+  {
+    "day": "2019-03-28",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 468,
+    "average": 331
+  },
+  {
+    "day": "2019-03-29",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 469,
+    "average": 331
+  },
+  {
+    "day": "2019-03-30",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 470,
+    "average": 330
+  },
+  {
+    "day": "2019-03-31",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 471,
+    "average": 329
+  },
+  {
+    "day": "2019-04-01",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 472,
+    "average": 329
+  },
+  {
+    "day": "2019-04-02",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 473,
+    "average": 328
+  },
+  {
+    "day": "2019-04-03",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 474,
+    "average": 327
+  },
+  {
+    "day": "2019-04-04",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 475,
+    "average": 326
+  },
+  {
+    "day": "2019-04-05",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 476,
+    "average": 326
+  },
+  {
+    "day": "2019-04-06",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 477,
+    "average": 325
+  },
+  {
+    "day": "2019-04-07",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 478,
+    "average": 324
+  },
+  {
+    "day": "2019-04-08",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 479,
+    "average": 324
+  },
+  {
+    "day": "2019-04-17",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 480,
+    "average": 323
+  },
+  {
+    "day": "2019-04-18",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 481,
+    "average": 322
+  },
+  {
+    "day": "2019-04-19",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 482,
+    "average": 322
+  },
+  {
+    "day": "2019-04-20",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 483,
+    "average": 321
+  },
+  {
+    "day": "2019-04-21",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 484,
+    "average": 320
+  },
+  {
+    "day": "2019-04-22",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 485,
+    "average": 320
+  },
+  {
+    "day": "2019-04-23",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 486,
+    "average": 319
+  },
+  {
+    "day": "2019-04-24",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 487,
+    "average": 318
+  },
+  {
+    "day": "2019-04-25",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 488,
+    "average": 318
+  },
+  {
+    "day": "2019-04-26",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 489,
+    "average": 317
+  },
+  {
+    "day": "2019-04-27",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 490,
+    "average": 316
+  },
+  {
+    "day": "2019-04-28",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 491,
+    "average": 316
+  },
+  {
+    "day": "2019-04-29",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 492,
+    "average": 315
+  },
+  {
+    "day": "2019-04-30",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 493,
+    "average": 315
+  },
+  {
+    "day": "2019-05-01",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 494,
+    "average": 314
+  },
+  {
+    "day": "2019-05-02",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 495,
+    "average": 313
+  },
+  {
+    "day": "2019-05-03",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 496,
+    "average": 313
+  },
+  {
+    "day": "2019-05-04",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 497,
+    "average": 312
+  },
+  {
+    "day": "2019-05-05",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 498,
+    "average": 311
+  },
+  {
+    "day": "2019-05-06",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 499,
+    "average": 311
+  },
+  {
+    "day": "2019-05-07",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 500,
+    "average": 310
+  },
+  {
+    "day": "2019-05-08",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 501,
+    "average": 310
+  },
+  {
+    "day": "2019-05-09",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 502,
+    "average": 309
+  },
+  {
+    "day": "2019-05-10",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 503,
+    "average": 308
+  },
+  {
+    "day": "2019-05-11",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 504,
+    "average": 308
+  },
+  {
+    "day": "2019-05-12",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 505,
+    "average": 307
+  },
+  {
+    "day": "2019-05-13",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 506,
+    "average": 306
+  },
+  {
+    "day": "2019-05-14",
+    "wordCount": 0,
+    "sum": 155075,
+    "numberOfDays": 507,
+    "average": 306
+  },
+  {
+    "day": "2019-05-15",
+    "wordCount": 504,
+    "sum": 155579,
+    "numberOfDays": 508,
+    "average": 306
+  },
+  {
+    "day": "2019-05-16",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 509,
+    "average": 306
+  },
+  {
+    "day": "2019-05-17",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 510,
+    "average": 305
+  },
+  {
+    "day": "2019-05-18",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 511,
+    "average": 304
+  },
+  {
+    "day": "2019-05-19",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 512,
+    "average": 304
+  },
+  {
+    "day": "2019-05-20",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 513,
+    "average": 303
+  },
+  {
+    "day": "2019-05-21",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 514,
+    "average": 303
+  },
+  {
+    "day": "2019-05-22",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 515,
+    "average": 302
+  },
+  {
+    "day": "2019-05-23",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 516,
+    "average": 302
+  },
+  {
+    "day": "2019-05-24",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 517,
+    "average": 301
+  },
+  {
+    "day": "2019-05-25",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 518,
+    "average": 300
+  },
+  {
+    "day": "2019-05-26",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 519,
+    "average": 300
+  },
+  {
+    "day": "2019-05-27",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 520,
+    "average": 299
+  },
+  {
+    "day": "2019-05-28",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 521,
+    "average": 299
+  },
+  {
+    "day": "2019-05-29",
+    "wordCount": 0,
+    "sum": 155579,
+    "numberOfDays": 522,
+    "average": 298
+  },
+  {
+    "day": "2019-05-30",
+    "wordCount": 912,
+    "sum": 156491,
+    "numberOfDays": 523,
+    "average": 299
+  },
+  {
+    "day": "2019-05-31",
+    "wordCount": 0,
+    "sum": 156491,
+    "numberOfDays": 524,
+    "average": 299
+  },
+  {
+    "day": "2019-06-01",
+    "wordCount": 0,
+    "sum": 156491,
+    "numberOfDays": 525,
+    "average": 298
+  },
+  {
+    "day": "2019-06-02",
+    "wordCount": 243,
+    "sum": 156734,
+    "numberOfDays": 526,
+    "average": 298
+  },
+  {
+    "day": "2019-06-03",
+    "wordCount": 0,
+    "sum": 156734,
+    "numberOfDays": 527,
+    "average": 297
+  },
+  {
+    "day": "2019-06-04",
+    "wordCount": 0,
+    "sum": 156734,
+    "numberOfDays": 528,
+    "average": 297
+  },
+  {
+    "day": "2019-06-05",
+    "wordCount": 0,
+    "sum": 156734,
+    "numberOfDays": 529,
+    "average": 296
+  },
+  {
+    "day": "2019-06-06",
+    "wordCount": 541,
+    "sum": 157275,
+    "numberOfDays": 530,
+    "average": 297
+  },
+  {
+    "day": "2019-06-07",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 531,
+    "average": 296
+  },
+  {
+    "day": "2019-06-08",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 532,
+    "average": 296
+  },
+  {
+    "day": "2019-06-09",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 533,
+    "average": 295
+  },
+  {
+    "day": "2019-06-10",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 534,
+    "average": 295
+  },
+  {
+    "day": "2019-06-11",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 535,
+    "average": 294
+  },
+  {
+    "day": "2019-06-12",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 536,
+    "average": 293
+  },
+  {
+    "day": "2019-06-13",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 537,
+    "average": 293
+  },
+  {
+    "day": "2019-06-14",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 538,
+    "average": 292
+  },
+  {
+    "day": "2019-06-15",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 539,
+    "average": 292
+  },
+  {
+    "day": "2019-06-16",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 540,
+    "average": 291
+  },
+  {
+    "day": "2019-06-17",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 541,
+    "average": 291
+  },
+  {
+    "day": "2019-06-18",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 542,
+    "average": 290
+  },
+  {
+    "day": "2019-06-19",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 543,
+    "average": 290
+  },
+  {
+    "day": "2019-06-20",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 544,
+    "average": 289
+  },
+  {
+    "day": "2019-06-21",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 545,
+    "average": 289
+  },
+  {
+    "day": "2019-06-22",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 546,
+    "average": 288
+  },
+  {
+    "day": "2019-06-23",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 547,
+    "average": 288
+  },
+  {
+    "day": "2019-06-24",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 548,
+    "average": 287
+  },
+  {
+    "day": "2019-06-25",
+    "wordCount": 0,
+    "sum": 157275,
+    "numberOfDays": 549,
+    "average": 286
+  },
+  {
+    "day": "2019-07-06",
+    "wordCount": 256,
+    "sum": 157531,
+    "numberOfDays": 550,
+    "average": 286
+  },
+  {
+    "day": "2019-07-07",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 551,
+    "average": 286
+  },
+  {
+    "day": "2019-07-08",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 552,
+    "average": 285
+  },
+  {
+    "day": "2019-07-09",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 553,
+    "average": 285
+  },
+  {
+    "day": "2019-07-10",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 554,
+    "average": 284
+  },
+  {
+    "day": "2019-07-11",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 555,
+    "average": 284
+  },
+  {
+    "day": "2019-07-12",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 556,
+    "average": 283
+  },
+  {
+    "day": "2019-07-13",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 557,
+    "average": 283
+  },
+  {
+    "day": "2019-07-27",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 558,
+    "average": 282
+  },
+  {
+    "day": "2019-07-28",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 559,
+    "average": 282
+  },
+  {
+    "day": "2019-07-29",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 560,
+    "average": 281
+  },
+  {
+    "day": "2019-07-30",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 561,
+    "average": 281
+  },
+  {
+    "day": "2019-07-31",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 562,
+    "average": 280
+  },
+  {
+    "day": "2019-08-01",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 563,
+    "average": 280
+  },
+  {
+    "day": "2019-08-02",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 564,
+    "average": 279
+  },
+  {
+    "day": "2019-08-03",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 565,
+    "average": 279
+  },
+  {
+    "day": "2019-08-04",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 566,
+    "average": 278
+  },
+  {
+    "day": "2019-08-05",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 567,
+    "average": 278
+  },
+  {
+    "day": "2019-08-06",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 568,
+    "average": 277
+  },
+  {
+    "day": "2019-08-07",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 569,
+    "average": 277
+  },
+  {
+    "day": "2019-08-08",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 570,
+    "average": 276
+  },
+  {
+    "day": "2019-08-09",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 571,
+    "average": 276
+  },
+  {
+    "day": "2019-08-10",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 572,
+    "average": 275
+  },
+  {
+    "day": "2019-08-11",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 573,
+    "average": 275
+  },
+  {
+    "day": "2019-08-12",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 574,
+    "average": 274
+  },
+  {
+    "day": "2019-08-13",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 575,
+    "average": 274
+  },
+  {
+    "day": "2019-08-14",
+    "wordCount": 0,
+    "sum": 157531,
+    "numberOfDays": 576,
+    "average": 273
+  },
+  {
+    "day": "2019-08-15",
+    "wordCount": 590,
+    "sum": 158121,
+    "numberOfDays": 577,
+    "average": 274
+  },
+  {
+    "day": "2019-08-16",
+    "wordCount": 1071,
+    "sum": 159192,
+    "numberOfDays": 578,
+    "average": 275
+  },
+  {
+    "day": "2019-08-19",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 579,
+    "average": 275
+  },
+  {
+    "day": "2019-08-20",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 580,
+    "average": 274
+  },
+  {
+    "day": "2019-08-21",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 581,
+    "average": 274
+  },
+  {
+    "day": "2019-08-22",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 582,
+    "average": 274
+  },
+  {
+    "day": "2019-08-23",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 583,
+    "average": 273
+  },
+  {
+    "day": "2019-08-24",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 584,
+    "average": 273
+  },
+  {
+    "day": "2019-08-25",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 585,
+    "average": 272
+  },
+  {
+    "day": "2019-08-26",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 586,
+    "average": 272
+  },
+  {
+    "day": "2019-08-27",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 587,
+    "average": 271
+  },
+  {
+    "day": "2019-08-28",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 588,
+    "average": 271
+  },
+  {
+    "day": "2019-08-29",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 589,
+    "average": 270
+  },
+  {
+    "day": "2019-08-30",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 590,
+    "average": 270
+  },
+  {
+    "day": "2019-08-31",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 591,
+    "average": 269
+  },
+  {
+    "day": "2019-09-01",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 592,
+    "average": 269
+  },
+  {
+    "day": "2019-09-02",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 593,
+    "average": 268
+  },
+  {
+    "day": "2019-09-03",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 594,
+    "average": 268
+  },
+  {
+    "day": "2019-09-04",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 595,
+    "average": 268
+  },
+  {
+    "day": "2019-09-05",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 596,
+    "average": 267
+  },
+  {
+    "day": "2019-09-06",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 597,
+    "average": 267
+  },
+  {
+    "day": "2019-09-07",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 598,
+    "average": 266
+  },
+  {
+    "day": "2019-09-08",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 599,
+    "average": 266
+  },
+  {
+    "day": "2019-09-09",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 600,
+    "average": 265
+  },
+  {
+    "day": "2019-09-10",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 601,
+    "average": 265
+  },
+  {
+    "day": "2019-09-11",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 602,
+    "average": 264
+  },
+  {
+    "day": "2019-09-12",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 603,
+    "average": 264
+  },
+  {
+    "day": "2019-09-13",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 604,
+    "average": 264
+  },
+  {
+    "day": "2019-09-14",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 605,
+    "average": 263
+  },
+  {
+    "day": "2019-09-15",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 606,
+    "average": 263
+  },
+  {
+    "day": "2019-09-16",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 607,
+    "average": 262
+  },
+  {
+    "day": "2019-09-17",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 608,
+    "average": 262
+  },
+  {
+    "day": "2019-09-18",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 609,
+    "average": 261
+  },
+  {
+    "day": "2019-09-19",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 610,
+    "average": 261
+  },
+  {
+    "day": "2019-09-20",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 611,
+    "average": 261
+  },
+  {
+    "day": "2019-09-21",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 612,
+    "average": 260
+  },
+  {
+    "day": "2019-09-22",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 613,
+    "average": 260
+  },
+  {
+    "day": "2019-09-23",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 614,
+    "average": 259
+  },
+  {
+    "day": "2019-09-24",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 615,
+    "average": 259
+  },
+  {
+    "day": "2019-09-25",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 616,
+    "average": 258
+  },
+  {
+    "day": "2019-09-26",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 617,
+    "average": 258
+  },
+  {
+    "day": "2019-09-27",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 618,
+    "average": 258
+  },
+  {
+    "day": "2019-09-28",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 619,
+    "average": 257
+  },
+  {
+    "day": "2019-09-29",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 620,
+    "average": 257
+  },
+  {
+    "day": "2019-09-30",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 621,
+    "average": 256
+  },
+  {
+    "day": "2019-10-01",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 622,
+    "average": 256
+  },
+  {
+    "day": "2019-10-02",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 623,
+    "average": 256
+  },
+  {
+    "day": "2019-10-03",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 624,
+    "average": 255
+  },
+  {
+    "day": "2019-10-04",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 625,
+    "average": 255
+  },
+  {
+    "day": "2019-10-05",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 626,
+    "average": 254
+  },
+  {
+    "day": "2019-10-06",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 627,
+    "average": 254
+  },
+  {
+    "day": "2019-10-07",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 628,
+    "average": 253
+  },
+  {
+    "day": "2019-10-08",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 629,
+    "average": 253
+  },
+  {
+    "day": "2019-10-09",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 630,
+    "average": 253
+  },
+  {
+    "day": "2019-10-10",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 631,
+    "average": 252
+  },
+  {
+    "day": "2019-10-11",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 632,
+    "average": 252
+  },
+  {
+    "day": "2019-10-12",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 633,
+    "average": 251
+  },
+  {
+    "day": "2019-10-13",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 634,
+    "average": 251
+  },
+  {
+    "day": "2019-10-14",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 635,
+    "average": 251
+  },
+  {
+    "day": "2019-10-15",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 636,
+    "average": 250
+  },
+  {
+    "day": "2019-10-16",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 637,
+    "average": 250
+  },
+  {
+    "day": "2019-10-17",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 638,
+    "average": 250
+  },
+  {
+    "day": "2019-10-18",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 639,
+    "average": 249
+  },
+  {
+    "day": "2019-10-19",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 640,
+    "average": 249
+  },
+  {
+    "day": "2019-10-20",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 641,
+    "average": 248
+  },
+  {
+    "day": "2019-10-21",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 642,
+    "average": 248
+  },
+  {
+    "day": "2019-10-22",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 643,
+    "average": 248
+  },
+  {
+    "day": "2019-10-23",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 644,
+    "average": 247
+  },
+  {
+    "day": "2019-10-24",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 645,
+    "average": 247
+  },
+  {
+    "day": "2019-10-25",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 646,
+    "average": 246
+  },
+  {
+    "day": "2019-10-26",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 647,
+    "average": 246
+  },
+  {
+    "day": "2019-10-27",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 648,
+    "average": 246
+  },
+  {
+    "day": "2019-10-28",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 649,
+    "average": 245
+  },
+  {
+    "day": "2019-10-29",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 650,
+    "average": 245
+  },
+  {
+    "day": "2019-10-30",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 651,
+    "average": 245
+  },
+  {
+    "day": "2019-10-31",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 652,
+    "average": 244
+  },
+  {
+    "day": "2019-11-01",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 653,
+    "average": 244
+  },
+  {
+    "day": "2019-11-02",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 654,
+    "average": 243
+  },
+  {
+    "day": "2019-11-03",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 655,
+    "average": 243
+  },
+  {
+    "day": "2019-11-04",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 656,
+    "average": 243
+  },
+  {
+    "day": "2019-11-05",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 657,
+    "average": 242
+  },
+  {
+    "day": "2019-11-06",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 658,
+    "average": 242
+  },
+  {
+    "day": "2019-11-07",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 659,
+    "average": 242
+  },
+  {
+    "day": "2019-11-08",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 660,
+    "average": 241
+  },
+  {
+    "day": "2019-11-09",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 661,
+    "average": 241
+  },
+  {
+    "day": "2019-11-10",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 662,
+    "average": 240
+  },
+  {
+    "day": "2019-11-11",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 663,
+    "average": 240
+  },
+  {
+    "day": "2019-11-12",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 664,
+    "average": 240
+  },
+  {
+    "day": "2019-11-13",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 665,
+    "average": 239
+  },
+  {
+    "day": "2019-11-14",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 666,
+    "average": 239
+  },
+  {
+    "day": "2019-11-15",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 667,
+    "average": 239
+  },
+  {
+    "day": "2019-11-16",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 668,
+    "average": 238
+  },
+  {
+    "day": "2019-11-17",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 669,
+    "average": 238
+  },
+  {
+    "day": "2019-11-18",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 670,
+    "average": 238
+  },
+  {
+    "day": "2019-11-19",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 671,
+    "average": 237
+  },
+  {
+    "day": "2019-11-20",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 672,
+    "average": 237
+  },
+  {
+    "day": "2019-11-21",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 673,
+    "average": 237
+  },
+  {
+    "day": "2019-11-22",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 674,
+    "average": 236
+  },
+  {
+    "day": "2019-11-23",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 675,
+    "average": 236
+  },
+  {
+    "day": "2019-11-24",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 676,
+    "average": 235
+  },
+  {
+    "day": "2019-11-25",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 677,
+    "average": 235
+  },
+  {
+    "day": "2019-11-26",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 678,
+    "average": 235
+  },
+  {
+    "day": "2019-11-27",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 679,
+    "average": 234
+  },
+  {
+    "day": "2019-11-28",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 680,
+    "average": 234
+  },
+  {
+    "day": "2019-11-29",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 681,
+    "average": 234
+  },
+  {
+    "day": "2019-11-30",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 682,
+    "average": 233
+  },
+  {
+    "day": "2019-12-01",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 683,
+    "average": 233
+  },
+  {
+    "day": "2019-12-02",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 684,
+    "average": 233
+  },
+  {
+    "day": "2019-12-03",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 685,
+    "average": 232
+  },
+  {
+    "day": "2019-12-04",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 686,
+    "average": 232
+  },
+  {
+    "day": "2019-12-05",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 687,
+    "average": 232
+  },
+  {
+    "day": "2019-12-06",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 688,
+    "average": 231
+  },
+  {
+    "day": "2019-12-07",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 689,
+    "average": 231
+  },
+  {
+    "day": "2019-12-08",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 690,
+    "average": 231
+  },
+  {
+    "day": "2019-12-09",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 691,
+    "average": 230
+  },
+  {
+    "day": "2019-12-10",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 692,
+    "average": 230
+  },
+  {
+    "day": "2019-12-11",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 693,
+    "average": 230
+  },
+  {
+    "day": "2019-12-12",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 694,
+    "average": 229
+  },
+  {
+    "day": "2019-12-13",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 695,
+    "average": 229
+  },
+  {
+    "day": "2019-12-14",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 696,
+    "average": 229
+  },
+  {
+    "day": "2019-12-15",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 697,
+    "average": 228
+  },
+  {
+    "day": "2019-12-16",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 698,
+    "average": 228
+  },
+  {
+    "day": "2019-12-17",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 699,
+    "average": 228
+  },
+  {
+    "day": "2019-12-18",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 700,
+    "average": 227
+  },
+  {
+    "day": "2019-12-19",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 701,
+    "average": 227
+  },
+  {
+    "day": "2019-12-20",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 702,
+    "average": 227
+  },
+  {
+    "day": "2019-12-21",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 703,
+    "average": 226
+  },
+  {
+    "day": "2019-12-22",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 704,
+    "average": 226
+  },
+  {
+    "day": "2019-12-23",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 705,
+    "average": 226
+  },
+  {
+    "day": "2019-12-24",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 706,
+    "average": 225
+  },
+  {
+    "day": "2019-12-25",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 707,
+    "average": 225
+  },
+  {
+    "day": "2019-12-26",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 708,
+    "average": 225
+  },
+  {
+    "day": "2019-12-27",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 709,
+    "average": 225
+  },
+  {
+    "day": "2019-12-28",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 710,
+    "average": 224
+  },
+  {
+    "day": "2019-12-29",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 711,
+    "average": 224
+  },
+  {
+    "day": "2019-12-30",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 712,
+    "average": 224
+  },
+  {
+    "day": "2019-12-31",
+    "wordCount": 0,
+    "sum": 159192,
+    "numberOfDays": 713,
+    "average": 223
+  },
+  {
+    "day": "2020-01-01",
+    "wordCount": 580,
+    "sum": 159772,
+    "numberOfDays": 714,
+    "average": 224
+  },
+  {
+    "day": "2020-01-02",
+    "wordCount": 0,
+    "sum": 159772,
+    "numberOfDays": 715,
+    "average": 223
+  },
+  {
+    "day": "2020-01-03",
+    "wordCount": 0,
+    "sum": 159772,
+    "numberOfDays": 716,
+    "average": 223
+  },
+  {
+    "day": "2020-01-04",
+    "wordCount": 0,
+    "sum": 159772,
+    "numberOfDays": 717,
+    "average": 223
+  },
+  {
+    "day": "2020-01-05",
+    "wordCount": 494,
+    "sum": 160266,
+    "numberOfDays": 718,
+    "average": 223
+  },
+  {
+    "day": "2020-01-06",
+    "wordCount": 885,
+    "sum": 161151,
+    "numberOfDays": 719,
+    "average": 224
+  },
+  {
+    "day": "2020-01-07",
+    "wordCount": 1054,
+    "sum": 162205,
+    "numberOfDays": 720,
+    "average": 225
+  },
+  {
+    "day": "2020-01-08",
+    "wordCount": 3193,
+    "sum": 165398,
+    "numberOfDays": 721,
+    "average": 229
+  },
+  {
+    "day": "2020-01-09",
+    "wordCount": 400,
+    "sum": 165798,
+    "numberOfDays": 722,
+    "average": 230
+  },
+  {
+    "day": "2020-01-10",
+    "wordCount": 0,
+    "sum": 165798,
+    "numberOfDays": 723,
+    "average": 229
+  },
+  {
+    "day": "2020-01-11",
+    "wordCount": 0,
+    "sum": 165798,
+    "numberOfDays": 724,
+    "average": 229
+  },
+  {
+    "day": "2020-01-12",
+    "wordCount": 34,
+    "sum": 165832,
+    "numberOfDays": 725,
+    "average": 229
+  },
+  {
+    "day": "2020-01-13",
+    "wordCount": 475,
+    "sum": 166307,
+    "numberOfDays": 726,
+    "average": 229
+  },
+  {
+    "day": "2020-01-14",
+    "wordCount": 738,
+    "sum": 167045,
+    "numberOfDays": 727,
+    "average": 230
+  },
+  {
+    "day": "2020-01-15",
+    "wordCount": 801,
+    "sum": 167846,
+    "numberOfDays": 728,
+    "average": 231
+  },
+  {
+    "day": "2020-01-16",
+    "wordCount": 0,
+    "sum": 167846,
+    "numberOfDays": 729,
+    "average": 230
+  },
+  {
+    "day": "2020-01-17",
+    "wordCount": 0,
+    "sum": 167846,
+    "numberOfDays": 730,
+    "average": 230
+  },
+  {
+    "day": "2020-01-19",
+    "wordCount": 0,
+    "sum": 167846,
+    "numberOfDays": 731,
+    "average": 230
+  },
+  {
+    "day": "2020-01-20",
+    "wordCount": 0,
+    "sum": 167846,
+    "numberOfDays": 732,
+    "average": 229
+  },
+  {
+    "day": "2020-01-21",
+    "wordCount": 0,
+    "sum": 167846,
+    "numberOfDays": 733,
+    "average": 229
+  },
+  {
+    "day": "2020-01-22",
+    "wordCount": 1099,
+    "sum": 168945,
+    "numberOfDays": 734,
+    "average": 230
+  },
+  {
+    "day": "2020-01-23",
+    "wordCount": 0,
+    "sum": 168945,
+    "numberOfDays": 735,
+    "average": 230
+  },
+  {
+    "day": "2020-01-24",
+    "wordCount": 0,
+    "sum": 168945,
+    "numberOfDays": 736,
+    "average": 230
+  },
+  {
+    "day": "2020-01-25",
+    "wordCount": 0,
+    "sum": 168945,
+    "numberOfDays": 737,
+    "average": 229
+  },
+  {
+    "day": "2020-01-26",
+    "wordCount": 870,
+    "sum": 169815,
+    "numberOfDays": 738,
+    "average": 230
+  },
+  {
+    "day": "2020-01-27",
+    "wordCount": 731,
+    "sum": 170546,
+    "numberOfDays": 739,
+    "average": 231
+  },
+  {
+    "day": "2020-01-28",
+    "wordCount": 686,
+    "sum": 171232,
+    "numberOfDays": 740,
+    "average": 231
+  },
+  {
+    "day": "2020-01-29",
+    "wordCount": 408,
+    "sum": 171640,
+    "numberOfDays": 741,
+    "average": 232
+  },
+  {
+    "day": "2020-01-30",
+    "wordCount": 0,
+    "sum": 171640,
+    "numberOfDays": 742,
+    "average": 231
+  },
+  {
+    "day": "2020-01-31",
+    "wordCount": 0,
+    "sum": 171640,
+    "numberOfDays": 743,
+    "average": 231
+  },
+  {
+    "day": "2020-02-01",
+    "wordCount": 0,
+    "sum": 171640,
+    "numberOfDays": 744,
+    "average": 231
+  },
+  {
+    "day": "2020-02-02",
+    "wordCount": 3588,
+    "sum": 175228,
+    "numberOfDays": 745,
+    "average": 235
+  },
+  {
+    "day": "2020-02-03",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 746,
+    "average": 235
+  },
+  {
+    "day": "2020-02-04",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 747,
+    "average": 235
+  },
+  {
+    "day": "2020-02-05",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 748,
+    "average": 234
+  },
+  {
+    "day": "2020-02-06",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 749,
+    "average": 234
+  },
+  {
+    "day": "2020-02-07",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 750,
+    "average": 234
+  },
+  {
+    "day": "2020-02-08",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 751,
+    "average": 233
+  },
+  {
+    "day": "2020-02-09",
+    "wordCount": 0,
+    "sum": 175228,
+    "numberOfDays": 752,
+    "average": 233
+  },
+  {
+    "day": "2020-02-10",
+    "wordCount": 695,
+    "sum": 175923,
+    "numberOfDays": 753,
+    "average": 234
+  },
+  {
+    "day": "2020-02-17",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 754,
+    "average": 233
+  },
+  {
+    "day": "2020-02-18",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 755,
+    "average": 233
+  },
+  {
+    "day": "2020-02-11",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 756,
+    "average": 233
+  },
+  {
+    "day": "2020-02-12",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 757,
+    "average": 232
+  },
+  {
+    "day": "2020-02-13",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 758,
+    "average": 232
+  },
+  {
+    "day": "2020-02-14",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 759,
+    "average": 232
+  },
+  {
+    "day": "2020-02-15",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 760,
+    "average": 231
+  },
+  {
+    "day": "2020-02-16",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 761,
+    "average": 231
+  },
+  {
+    "day": "2020-02-19",
+    "wordCount": 0,
+    "sum": 175923,
+    "numberOfDays": 762,
+    "average": 231
+  },
+  {
+    "day": "2020-02-20",
+    "wordCount": 510,
+    "sum": 176433,
+    "numberOfDays": 763,
+    "average": 231
+  },
+  {
+    "day": "2020-02-21",
+    "wordCount": 0,
+    "sum": 176433,
+    "numberOfDays": 764,
+    "average": 231
+  },
+  {
+    "day": "2020-02-22",
+    "wordCount": 0,
+    "sum": 176433,
+    "numberOfDays": 765,
+    "average": 231
+  },
+  {
+    "day": "2020-02-23",
+    "wordCount": 0,
+    "sum": 176433,
+    "numberOfDays": 766,
+    "average": 230
+  },
+  {
+    "day": "2020-02-24",
+    "wordCount": 0,
+    "sum": 176433,
+    "numberOfDays": 767,
+    "average": 230
+  },
+  {
+    "day": "2020-02-25",
+    "wordCount": 0,
+    "sum": 176433,
+    "numberOfDays": 768,
+    "average": 230
+  },
+  {
+    "day": "2020-02-26",
+    "wordCount": 341,
+    "sum": 176774,
+    "numberOfDays": 769,
+    "average": 230
+  },
+  {
+    "day": "2020-02-27",
+    "wordCount": 0,
+    "sum": 176774,
+    "numberOfDays": 770,
+    "average": 230
+  },
+  {
+    "day": "2020-02-28",
+    "wordCount": 841,
+    "sum": 177615,
+    "numberOfDays": 771,
+    "average": 230
+  },
+  {
+    "day": "2020-02-29",
+    "wordCount": 0,
+    "sum": 177615,
+    "numberOfDays": 772,
+    "average": 230
+  },
+  {
+    "day": "2020-03-01",
+    "wordCount": 1649,
+    "sum": 179264,
+    "numberOfDays": 773,
+    "average": 232
+  },
+  {
+    "day": "2020-03-02",
+    "wordCount": 671,
+    "sum": 179935,
+    "numberOfDays": 774,
+    "average": 232
+  },
+  {
+    "day": "2020-03-03",
+    "wordCount": 700,
+    "sum": 180635,
+    "numberOfDays": 775,
+    "average": 233
+  },
+  {
+    "day": "2020-03-04",
+    "wordCount": 0,
+    "sum": 180635,
+    "numberOfDays": 776,
+    "average": 233
+  },
+  {
+    "day": "2020-03-05",
+    "wordCount": 277,
+    "sum": 180912,
+    "numberOfDays": 777,
+    "average": 233
+  },
+  {
+    "day": "2020-03-06",
+    "wordCount": 855,
+    "sum": 181767,
+    "numberOfDays": 778,
+    "average": 234
+  },
+  {
+    "day": "2020-03-07",
+    "wordCount": 0,
+    "sum": 181767,
+    "numberOfDays": 779,
+    "average": 233
+  },
+  {
+    "day": "2020-03-08",
+    "wordCount": 0,
+    "sum": 181767,
+    "numberOfDays": 780,
+    "average": 233
+  },
+  {
+    "day": "2020-03-09",
+    "wordCount": 311,
+    "sum": 182078,
+    "numberOfDays": 781,
+    "average": 233
+  },
+  {
+    "day": "2020-03-10",
+    "wordCount": 0,
+    "sum": 182078,
+    "numberOfDays": 782,
+    "average": 233
+  },
+  {
+    "day": "2020-03-11",
+    "wordCount": 431,
+    "sum": 182509,
+    "numberOfDays": 783,
+    "average": 233
+  },
+  {
+    "day": "2020-03-12",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 784,
+    "average": 233
+  },
+  {
+    "day": "2020-03-13",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 785,
+    "average": 232
+  },
+  {
+    "day": "2020-03-14",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 786,
+    "average": 232
+  },
+  {
+    "day": "2020-03-15",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 787,
+    "average": 232
+  },
+  {
+    "day": "2020-03-16",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 788,
+    "average": 232
+  },
+  {
+    "day": "2020-03-17",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 789,
+    "average": 231
+  },
+  {
+    "day": "2020-03-18",
+    "wordCount": 0,
+    "sum": 182509,
+    "numberOfDays": 790,
+    "average": 231
+  },
+  {
+    "day": "2020-03-19",
+    "wordCount": 1363,
+    "sum": 183872,
+    "numberOfDays": 791,
+    "average": 232
+  },
+  {
+    "day": "2020-03-20",
+    "wordCount": 0,
+    "sum": 183872,
+    "numberOfDays": 792,
+    "average": 232
+  },
+  {
+    "day": "2020-03-21",
+    "wordCount": 0,
+    "sum": 183872,
+    "numberOfDays": 793,
+    "average": 232
+  },
+  {
+    "day": "2020-03-22",
+    "wordCount": 701,
+    "sum": 184573,
+    "numberOfDays": 794,
+    "average": 232
+  },
+  {
+    "day": "2020-03-23",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 795,
+    "average": 232
+  },
+  {
+    "day": "2020-03-24",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 796,
+    "average": 232
+  },
+  {
+    "day": "2020-03-25",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 797,
+    "average": 232
+  },
+  {
+    "day": "2020-03-26",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 798,
+    "average": 231
+  },
+  {
+    "day": "2020-03-27",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 799,
+    "average": 231
+  },
+  {
+    "day": "2020-03-28",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 800,
+    "average": 231
+  },
+  {
+    "day": "2020-03-29",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 801,
+    "average": 230
+  },
+  {
+    "day": "2020-03-30",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 802,
+    "average": 230
+  },
+  {
+    "day": "2020-03-31",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 803,
+    "average": 230
+  },
+  {
+    "day": "2020-04-01",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 804,
+    "average": 230
+  },
+  {
+    "day": "2020-04-02",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 805,
+    "average": 229
+  },
+  {
+    "day": "2020-04-03",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 806,
+    "average": 229
+  },
+  {
+    "day": "2020-04-04",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 807,
+    "average": 229
+  },
+  {
+    "day": "2020-04-05",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 808,
+    "average": 228
+  },
+  {
+    "day": "2020-04-06",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 809,
+    "average": 228
+  },
+  {
+    "day": "2020-04-07",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 810,
+    "average": 228
+  },
+  {
+    "day": "2020-04-08",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 811,
+    "average": 228
+  },
+  {
+    "day": "2020-04-09",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 812,
+    "average": 227
+  },
+  {
+    "day": "2020-04-10",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 813,
+    "average": 227
+  },
+  {
+    "day": "2020-04-11",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 814,
+    "average": 227
+  },
+  {
+    "day": "2020-04-12",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 815,
+    "average": 226
+  },
+  {
+    "day": "2020-04-13",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 816,
+    "average": 226
+  },
+  {
+    "day": "2020-04-14",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 817,
+    "average": 226
+  },
+  {
+    "day": "2020-04-15",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 818,
+    "average": 226
+  },
+  {
+    "day": "2020-04-16",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 819,
+    "average": 225
+  },
+  {
+    "day": "2020-04-17",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 820,
+    "average": 225
+  },
+  {
+    "day": "2020-04-18",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 821,
+    "average": 225
+  },
+  {
+    "day": "2020-04-19",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 822,
+    "average": 225
+  },
+  {
+    "day": "2020-04-20",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 823,
+    "average": 224
+  },
+  {
+    "day": "2020-04-21",
+    "wordCount": 0,
+    "sum": 184573,
+    "numberOfDays": 824,
+    "average": 224
+  },
+  {
+    "day": "2020-04-22",
+    "wordCount": 619,
+    "sum": 185192,
+    "numberOfDays": 825,
+    "average": 224
+  },
+  {
+    "day": "2020-04-23",
+    "wordCount": 884,
+    "sum": 186076,
+    "numberOfDays": 826,
+    "average": 225
+  },
+  {
+    "day": "2020-04-24",
+    "wordCount": 0,
+    "sum": 186076,
+    "numberOfDays": 827,
+    "average": 225
+  },
+  {
+    "day": "2020-04-25",
+    "wordCount": 0,
+    "sum": 186076,
+    "numberOfDays": 828,
+    "average": 225
+  },
+  {
+    "day": "2020-04-26",
+    "wordCount": 0,
+    "sum": 186076,
+    "numberOfDays": 829,
+    "average": 224
+  },
+  {
+    "day": "2020-04-27",
+    "wordCount": 0,
+    "sum": 186076,
+    "numberOfDays": 830,
+    "average": 224
+  },
+  {
+    "day": "2020-04-28",
+    "wordCount": 850,
+    "sum": 186926,
+    "numberOfDays": 831,
+    "average": 225
+  },
+  {
+    "day": "2020-04-29",
+    "wordCount": 0,
+    "sum": 186926,
+    "numberOfDays": 832,
+    "average": 225
+  },
+  {
+    "day": "2020-04-30",
+    "wordCount": 0,
+    "sum": 186926,
+    "numberOfDays": 833,
+    "average": 224
+  },
+  {
+    "day": "2020-05-01",
+    "wordCount": 0,
+    "sum": 186926,
+    "numberOfDays": 834,
+    "average": 224
+  },
+  {
+    "day": "2020-05-02",
+    "wordCount": 0,
+    "sum": 186926,
+    "numberOfDays": 835,
+    "average": 224
+  },
+  {
+    "day": "2020-05-03",
+    "wordCount": 0,
+    "sum": 186926,
+    "numberOfDays": 836,
+    "average": 224
+  },
+  {
+    "day": "2020-05-04",
+    "wordCount": 0,
+    "sum": 186926,
+    "numberOfDays": 837,
+    "average": 223
+  },
+  {
+    "day": "2020-05-05",
+    "wordCount": 1337,
+    "sum": 188263,
+    "numberOfDays": 838,
+    "average": 225
+  },
+  {
+    "day": "2020-05-06",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 839,
+    "average": 224
+  },
+  {
+    "day": "2020-05-07",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 840,
+    "average": 224
+  },
+  {
+    "day": "2020-05-08",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 841,
+    "average": 224
+  },
+  {
+    "day": "2020-05-09",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 842,
+    "average": 224
+  },
+  {
+    "day": "2020-05-10",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 843,
+    "average": 223
+  },
+  {
+    "day": "2020-05-11",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 844,
+    "average": 223
+  },
+  {
+    "day": "2020-05-12",
+    "wordCount": 0,
+    "sum": 188263,
+    "numberOfDays": 845,
+    "average": 223
+  },
+  {
+    "day": "2020-05-13",
+    "wordCount": 803,
+    "sum": 189066,
+    "numberOfDays": 846,
+    "average": 223
+  },
+  {
+    "day": "2020-05-14",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 847,
+    "average": 223
+  },
+  {
+    "day": "2020-05-15",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 848,
+    "average": 223
+  },
+  {
+    "day": "2020-05-16",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 849,
+    "average": 223
+  },
+  {
+    "day": "2020-05-17",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 850,
+    "average": 222
+  },
+  {
+    "day": "2020-05-18",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 851,
+    "average": 222
+  },
+  {
+    "day": "2020-05-19",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 852,
+    "average": 222
+  },
+  {
+    "day": "2020-05-20",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 853,
+    "average": 222
+  },
+  {
+    "day": "2020-05-21",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 854,
+    "average": 221
+  },
+  {
+    "day": "2020-05-22",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 855,
+    "average": 221
+  },
+  {
+    "day": "2020-05-23",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 856,
+    "average": 221
+  },
+  {
+    "day": "2020-05-24",
+    "wordCount": 0,
+    "sum": 189066,
+    "numberOfDays": 857,
+    "average": 221
+  },
+  {
+    "day": "2020-05-25",
+    "wordCount": 1018,
+    "sum": 190084,
+    "numberOfDays": 858,
+    "average": 222
+  },
+  {
+    "day": "2020-05-26",
+    "wordCount": 0,
+    "sum": 190084,
+    "numberOfDays": 859,
+    "average": 221
+  },
+  {
+    "day": "2020-05-27",
+    "wordCount": 1351,
+    "sum": 191435,
+    "numberOfDays": 860,
+    "average": 223
+  },
+  {
+    "day": "2020-05-28",
+    "wordCount": 254,
+    "sum": 191689,
+    "numberOfDays": 861,
+    "average": 223
+  },
+  {
+    "day": "2020-05-29",
+    "wordCount": 0,
+    "sum": 191689,
+    "numberOfDays": 862,
+    "average": 222
+  },
+  {
+    "day": "2020-05-30",
+    "wordCount": 0,
+    "sum": 191689,
+    "numberOfDays": 863,
+    "average": 222
+  },
+  {
+    "day": "2020-05-31",
+    "wordCount": 0,
+    "sum": 191689,
+    "numberOfDays": 864,
+    "average": 222
+  },
+  {
+    "day": "2020-06-01",
+    "wordCount": 0,
+    "sum": 191689,
+    "numberOfDays": 865,
+    "average": 222
+  },
+  {
+    "day": "2020-06-02",
+    "wordCount": 980,
+    "sum": 192669,
+    "numberOfDays": 866,
+    "average": 222
+  },
+  {
+    "day": "2020-06-03",
+    "wordCount": 284,
+    "sum": 192953,
+    "numberOfDays": 867,
+    "average": 223
+  },
+  {
+    "day": "2020-06-04",
+    "wordCount": 538,
+    "sum": 193491,
+    "numberOfDays": 868,
+    "average": 223
+  },
+  {
+    "day": "2020-06-05",
+    "wordCount": 0,
+    "sum": 193491,
+    "numberOfDays": 869,
+    "average": 223
+  },
+  {
+    "day": "2020-06-06",
+    "wordCount": 0,
+    "sum": 193491,
+    "numberOfDays": 870,
+    "average": 222
+  },
+  {
+    "day": "2020-06-07",
+    "wordCount": 0,
+    "sum": 193491,
+    "numberOfDays": 871,
+    "average": 222
+  },
+  {
+    "day": "2020-06-08",
+    "wordCount": 0,
+    "sum": 193491,
+    "numberOfDays": 872,
+    "average": 222
+  },
+  {
+    "day": "2020-06-09",
+    "wordCount": 483,
+    "sum": 193974,
+    "numberOfDays": 873,
+    "average": 222
+  },
+  {
+    "day": "2020-06-10",
+    "wordCount": 496,
+    "sum": 194470,
+    "numberOfDays": 874,
+    "average": 223
+  },
+  {
+    "day": "2020-06-11",
+    "wordCount": 0,
+    "sum": 194470,
+    "numberOfDays": 875,
+    "average": 222
+  },
+  {
+    "day": "2020-06-12",
+    "wordCount": 272,
+    "sum": 194742,
+    "numberOfDays": 876,
+    "average": 222
+  },
+  {
+    "day": "2020-06-13",
+    "wordCount": 0,
+    "sum": 194742,
+    "numberOfDays": 877,
+    "average": 222
+  },
+  {
+    "day": "2020-06-14",
+    "wordCount": 0,
+    "sum": 194742,
+    "numberOfDays": 878,
+    "average": 222
+  },
+  {
+    "day": "2020-06-15",
+    "wordCount": 586,
+    "sum": 195328,
+    "numberOfDays": 879,
+    "average": 222
+  },
+  {
+    "day": "2020-06-16",
+    "wordCount": 284,
+    "sum": 195612,
+    "numberOfDays": 880,
+    "average": 222
+  },
+  {
+    "day": "2020-06-17",
+    "wordCount": 0,
+    "sum": 195612,
+    "numberOfDays": 881,
+    "average": 222
+  },
+  {
+    "day": "2020-06-18",
+    "wordCount": 0,
+    "sum": 195612,
+    "numberOfDays": 882,
+    "average": 222
+  },
+  {
+    "day": "2020-06-19",
+    "wordCount": 487,
+    "sum": 196099,
+    "numberOfDays": 883,
+    "average": 222
+  },
+  {
+    "day": "2020-06-20",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 884,
+    "average": 222
+  },
+  {
+    "day": "2020-06-21",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 885,
+    "average": 222
+  },
+  {
+    "day": "2020-06-22",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 886,
+    "average": 221
+  },
+  {
+    "day": "2020-06-23",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 887,
+    "average": 221
+  },
+  {
+    "day": "2020-06-24",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 888,
+    "average": 221
+  },
+  {
+    "day": "2020-06-25",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 889,
+    "average": 221
+  },
+  {
+    "day": "2020-06-26",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 890,
+    "average": 220
+  },
+  {
+    "day": "2020-06-27",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 891,
+    "average": 220
+  },
+  {
+    "day": "2020-06-28",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 892,
+    "average": 220
+  },
+  {
+    "day": "2020-06-29",
+    "wordCount": 0,
+    "sum": 196099,
+    "numberOfDays": 893,
+    "average": 220
+  },
+  {
+    "day": "2020-06-30",
+    "wordCount": 651,
+    "sum": 196750,
+    "numberOfDays": 894,
+    "average": 220
+  },
+  {
+    "day": "2020-07-01",
+    "wordCount": 0,
+    "sum": 196750,
+    "numberOfDays": 895,
+    "average": 220
+  },
+  {
+    "day": "2020-07-02",
+    "wordCount": 0,
+    "sum": 196750,
+    "numberOfDays": 896,
+    "average": 220
+  },
+  {
+    "day": "2020-07-03",
+    "wordCount": 0,
+    "sum": 196750,
+    "numberOfDays": 897,
+    "average": 219
+  },
+  {
+    "day": "2020-07-04",
+    "wordCount": 0,
+    "sum": 196750,
+    "numberOfDays": 898,
+    "average": 219
+  },
+  {
+    "day": "2020-07-05",
+    "wordCount": 0,
+    "sum": 196750,
+    "numberOfDays": 899,
+    "average": 219
+  },
+  {
+    "day": "2020-07-06",
+    "wordCount": 0,
+    "sum": 196750,
+    "numberOfDays": 900,
+    "average": 219
+  },
+  {
+    "day": "2020-07-07",
+    "wordCount": 979,
+    "sum": 197729,
+    "numberOfDays": 901,
+    "average": 219
+  },
+  {
+    "day": "2020-07-08",
+    "wordCount": 0,
+    "sum": 197729,
+    "numberOfDays": 902,
+    "average": 219
+  },
+  {
+    "day": "2020-07-09",
+    "wordCount": 500,
+    "sum": 198229,
+    "numberOfDays": 903,
+    "average": 220
+  },
+  {
+    "day": "2020-07-10",
+    "wordCount": 0,
+    "sum": 198229,
+    "numberOfDays": 904,
+    "average": 219
+  },
+  {
+    "day": "2020-07-11",
+    "wordCount": 0,
+    "sum": 198229,
+    "numberOfDays": 905,
+    "average": 219
+  },
+  {
+    "day": "2020-07-12",
+    "wordCount": 0,
+    "sum": 198229,
+    "numberOfDays": 906,
+    "average": 219
+  },
+  {
+    "day": "2020-07-13",
+    "wordCount": 0,
+    "sum": 198229,
+    "numberOfDays": 907,
+    "average": 219
+  },
+  {
+    "day": "2020-07-14",
+    "wordCount": 0,
+    "sum": 198229,
+    "numberOfDays": 908,
+    "average": 218
+  },
+  {
+    "day": "2020-07-15",
+    "wordCount": 2395,
+    "sum": 200624,
+    "numberOfDays": 909,
+    "average": 221
+  },
+  {
+    "day": "2020-07-16",
+    "wordCount": 1276,
+    "sum": 201900,
+    "numberOfDays": 910,
+    "average": 222
+  }
+]
